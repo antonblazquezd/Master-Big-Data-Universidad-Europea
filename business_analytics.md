@@ -134,21 +134,19 @@ Distingamos máquina e IoT. IoT describ elos objetos físicos como sensores, cap
 
 ## Presentación 
 
-![](/img/business_analytics/daniel_2.png)
-![](/img/business_analytics/daniel_3.png)
-![](/img/business_analytics/daniel_4.png)
-![](/img/business_analytics/daniel_5.png)
 ![](/img/business_analytics/daniel_6.png)
-![](/img/business_analytics/daniel_7.png)
+
 ![](/img/business_analytics/daniel_8.png)
 ![](/img/business_analytics/daniel_9.png)
 ![](/img/business_analytics/daniel_10.png)
-![](/img/business_analytics/daniel_11.png)
 
+Tres pasos:
+- Analitica descriptiva (Que ha pasado ?)
+- Analitica predictiva (Que puede pasar ?)
+- Analitica prescriptiva (Que hay que hacer ?)
 
 ## Introducción a la ciencia de datos espacial 
 
-![](/img/business_analytics/daniel_12.png)
 ![](/img/business_analytics/daniel_13.png)
 
 La geometría que generan dos coordenadas hace especial los datos espaciales. 
