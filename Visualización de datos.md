@@ -1,4 +1,4 @@
-# Visualización de Datos 
+ # Visualización de Datos 
 
 Profesor: Sandra Becker
 
@@ -322,25 +322,236 @@ Cuando estemos haciendo visualizaciones
 
 ### Cómo presentar outliers 
 
+Vemos un gráfico de áreas con diferentes categorías: cómo se mencionan diferentes temas a lo largo del tiempo. Haciendo un rescaling podemos ver los detalles y en valor absoluto con respecto al valor absoluto. 
+
 ![](/img/visualizacion/como_ver_outliers.png)
+
+
+# Unidad 2
+
+
+
+
+
 
 # Unidad 3. Visualización dinámica con D3.js/Observable - I
 
 El objetivo de esta unidad es familiarizarse con el mundo de la programación y específicamente la librería de D3.js. Se muestra sobre todo el funcionamiento de las tecnologías fundamentales, en el entorno de D3.js. Después se explica cómo manejar los datos y los funciones principales de D3.js (selecciones, escalas y ejes).
 
 
+## INTRO TO D3.JS
 
+![Página web con los apuntes](https://observablehq.com/@sandraviz/html-css-intro?collection=@sandraviz/ue-visualizacion-dinamica-con-d3-js)
 
-
-## D3 - Data-Driven Documents
+D3.js es una librería escrita en Javascript, pero afecta a la página, para hacer visualizaciones dinámicas. 
 
 https://d3js.org/
 
 ![](/img/visualizacion/d3.png)
 
-![](/img/visualizacion/svelte.png)
 
-D3.js es una librería escrita en Javascript, pero afecta a la página. 
+Como llevan algunos años, muchas visualizaciones encontradas en muchas páginas web, se basan en esta librería. Vamos a ver 3 ejemplos prácticos: 
+
+
+[Visual Introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+[The unwelcomed](https://www.alhadaqa.com/wp-content/uploads/2019/11/the_unwelcomed_v2.html)
+[Olympic Feathers](https://olympicfeathers.visualcinnamon.com/)
+
+
+Estas visualizaciones son muy personalizadas, justo cuadran con el objetivo que pretenden lograr. 
+
+
+### ¿Por qué D3? 
+
+No solo porque D3.js sigue siendo la biblioteca más importante para las visualizaciones dinámicas basadas en la web, sino también porque muchas otras herramientas de visualización de datos se construyen sobre o junto con d3.js. Además, aprender d3 también significa aprender lo que realmente significa visualizar datos.
+
+Flourish se basa en D3. 
+
+
+
+### Qué es D3? 
+
+> "Efficient manipulation of documents based on data."- Mike Bostock 
+
+No solo es una librería de Javascript, sino que ahora es un ecosistema de visualizaciónnes Es un lenguaje de etiquetas definido por SVG que modifica páginas web (HTML y CSS).
+
 
 ![](/img/visualizacion/d3_2.png)
 
+### Intro to HTML, SVG y CSS
+
+HTML stands for HyperText Markup Language, which creates a structure to hold the content of your webpage; it does this using what it calls elements.
+
+#### texto simple 
+
+``` html 
+
+<body>
+
+<p>When <strong> a tree falls </strong> in the forest</p>
+<p> there are <strong> other trees listening. </strong> </p>
+  
+</body> 
+
+```
+
+#### Listas 
+
+``` html
+<body>
+
+
+
+<p>My cat <strong>Felicita</strong> is</p>
+  
+<ul> 
+  <li>relaxed</li>
+  <li>sweet</li>
+  <li>always in the moment</li>
+</ul>
+  
+</body> 
+
+```
+
+#### SVG
+
+SVG stands for Scalable Vector Graphics and are an XML-based markup language for describing two-dimensional based vector graphics. When doing data visualisation, we use mainly the SVG TAGs listed below to draw the visual elements into our webpage. 
+
+![](/img/visualizacion/svg.png)
+
+``` html 
+
+<svg width="950" height="170">
+   <circle cx="150" cy="100" r=60 fill="#4DF772"></circle>  
+   <circle cx="220" cy="100" r=60 fill="#3DC45A"></circle>
+   <circle cx="100" cy="100" r=60 fill="#98F9AD"></circle>
+   <circle cx="280" cy="100" r=60 fill="#257837"></circle>
+</svg>
+
+<style>
+  
+circle {
+   opacity:0.4; 
+}
+  
+</style>
+
+```
+
+## D3.js & Observable
+
+![INTRO TO DATA IN JS](https://observablehq.com/@sandraviz/intro-to-data-in-js?collection=@sandraviz/ue-visualizacion-dinamica-con-d3-js)
+
+
+29/05/23
+
+1 notebook para la primera visualización
+1 notebook para el gráfico de dispersión. 
+
+ 
+
+ # StoryTelling
+
+ El Data Storytelling es narrar los datos por medio de visualizaciones y una historia que las une a ellas para comunicar la importancia de los datos en sí y de su análisis/procesamiento .
+
+El elemento más importante es la visualización en sí misma. 
+
+
+ ¿Cuál es la diferencia con una presentación ordinaria? 
+
+ - Tiene un inicio y un final
+ - Contiene personajes.
+ - Tiene una conexión temporal. 
+ - Tiene un hilo de coherencia. 
+ - Tiene momentos de tensión, acción que provocan emociones en el espectador. 
+ - Se resuelve el momento de tensión 
+
+
+
+Es una buena idea conectar los datos con un tema con la que la audiencia pueda sentirse conectada. 
+Se puede introducir la humanización de los datos con data storytelling para sensibilizar algunos datos. 
+
+Puedes utilizar recursos que las personas utilizan/saben con cotidianeidad. 
+
+Podemos comenzar muy abstracto para generar una conexión emocional hablando de un caso particular o un ejemplo, y luego magnificar todo hablando sobre todos los datos. 
+
+Recomendaciones
+
+1. Poner en contexto. 
+2. Utilizar un ejemplo particular que cause atención. Utilizar outliers para crear tensión. 
+3. Crear tensión
+4. Conclusiones
+
+
+Análisis de un storytelling: elegimos un ejemplo
+- estructura
+- author-driven, viewer-driven. 
+
+## Lenguaje visual 
+
+En el storytelling utilizamos el color para lo más importante, normalmente en un storytelling lo más importante es los personajes: ciudades, marcas de teléfono, países, etc. 
+
+Cuando casamos los colores con sus personajes, ya no es necesario colocar la leyenda todo el tiempo porque el observador va a asociar ambos conceptos indistintamente. 
+
+No obstante, a veces usamos los colores para marcar cambios o eventos con íconos y patrones para historias. 
+
+## Creación de un Data Storytelling
+
+1. Poner en contexto el tema: hacer una introducción.
+2. Poner en contexto la visualización. 
+3. Empezar con un incidente que es muy fácil de entender para poner en perspectiva al autor. Queremos conectarnos con la audiencia y debemos utilizar una instancia digerible para que puedan entrar a la historia sin mucho esfuerzo.
+4. Utilizamos datos marginales o un aumento de la complejidad para incrementar la tensión. 
+5. Se relaja la historia por medio de una recapitulación o una solución a la tensión. 
+6. Se permite al usuario interactuar con los datos y recrear su propia historia. 
+
+
+## Conceptos: Scroll-y-telling, Martini Glass Structure, Drill-Down
+
+![](/img/visualizacion/author_driven.png)
+
+![](/img/visualizacion/viewer_driven.png)
+
+- **Scroll-y-telling:** 
+- **Martini Glass Structure**: El inicio es author-driven y luego se abre a una posibilidad de encontrar su propia historia. 
+- **Drill-Down**:
+
+
+
+
+# Clase 10/07
+
+Podemos llevar un storytelling propio.  
+
+## Tips
+- No repitamos el texto. 
+
+
+1. PErspectiva del autor: author-driven, viewer-driven
+2. Dar ejemplos, está introduciendo. No nos da el ejemplo de los cortes al principio para crear interés y suspenso. 
+3.  Tras ver el gráfico de duración, podemos ver que las categorías que tienen más frecuencia son las relacionadas con sexo, LGBT y faltas de respeto hacia China. 
+4. Es poco interactivo, claramente definido por el autor, quiere convencerte de su punto de vista. 
+
+# Cómo se crea el desarrollo de la historia
+
+1. La portada del la historia: aplica una censura sobre el título para dar una introducción visual a lo que vamos a hablar. Se utilizan imágenes que ejemplifican 
+2. Él aplica un ejemplo particular personal para apelar a la cercanía y facilitar la conexión. "Se usa la forma de un ejemplo personal para identificarse con el lector para introducirte el efecto censura, para que el espectador sienta que un programa tan familiar como Big Bang fue censurado". 
+2. Te exponen ejemplos particulares para que compares y las evalúes moralmente, y te sientas involucrado. Luego el autor pasa de esos ejemplos particulares a una perspectiva panorámica, con lo cual se aleja en detalle pero continúa o magnifica la tensión hacia el espectador para que entienda de que existe una gran cantidad de momentos como los que juzgó anteriormente en toda la muestra tomada. 
+3. La gráfica de barcode empieza vacía y no tiene ejes, esto provoca expectativa porque el espectador sabe que no va a quedarse así. 
+4. Se relaja la tensión y continúa con el hilo de la historia. Se produce interés intuitivo por medio de imágens y frases cortas. 
+5. Vuelve a introducir ejemplos, que para el espectador puede generar un poco de hastío o aburrimiento, pero estos ejemplos son los más absurdos de censura para que al espectador le llame la atención que la censura es bastante subjetiva. 
+6. Vuelve a generarse tensión y provocación porque el autor expone otra idea que es exponiendo películas locales comparando escenas  que fueron censuradas con otras similares del programa. Las imágenes son muy explícitas y visuales y mantienen la atención del lector. 
+7. Termina con una reflexión personal, sin visualizaciones. Hace un resumen, a manera más de generar una reflexión en los espectadores. La anulación de visualizaciones produce un desenlace y relajación ene l espectador. 
+8. La línea de coherencia de la historia es un poco desordenada, trae muchos ejemplos en diferentes partes, trae 
+
+
+¿Cuáles son los lenguajes visuales que se utilizan? 
+
+https://pudding.cool/2022/08/censorship/
+
+
+- Es un gráfico de barcode 
+- Los colores representan las categorías y es fácil recordar las etiquetas que representan porque son solo 3 colores. Los colores contrastan muy bien con el fondo. Los colores son poco representativos para los temas que hablan, pero existe una tendencia actualmente de utilizar colores neutrales para descontextualizar los temas con otras historias y que los temas a traer a mención se centren únicamente en la información brindada dentro de la narrativa.  
+- La duración es fácil de identificar, da una sensación de cuál largo o cuán corto es una categoría con respecto a otra y cuánto ocupa en el episodio completamente. 
+- Utiliza mucho el verde, puede ser porque apela al tema más censurado que es el sexo pero en una parte que habla específicamente de "falta de respeto" que tenía asignado el color amarillo, el espectador esperaría esos colores y sin embargo, utilizó el amarillo. 
+- 

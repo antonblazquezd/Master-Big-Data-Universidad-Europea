@@ -3,38 +3,53 @@ Profesor: David Díaz Vico
 
 # Contenido del Curso
 
+## Clases 
 
-- Unidad 1. Introducción al aprendizaje automático
-    - Introducción al aprendizaje automático
+1. [ 1/03 - Introducción al aprendizaje automático](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#1-103---introducci%C3%B3n-al-aprendizaje-autom%C3%A1tico)
+2. [ 7/03 - Aplicaciones e ingeniería de características del aprendizaje automático](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#2-703---aplicaciones-e-ingenier%C3%ADa-de-caracter%C3%ADsticas-del-aprendizaje-autom%C3%A1tico)
+3. [14/03 - Aprendizaje supervisado: Modelos Lineales](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#3-1403---aprendizaje-supervisado-modelos-lineales)
+4. [28/03 - Aprendizaje supervisado: Máquinas de soporte, modelos kernel y Naive Bayes](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#4-2803---aprendizaje-supervisado-m%C3%A1quinas-de-soporte-modelos-kernel-y-naive-bayes)
+5. [11/04 - Aprendizaje supervisado: Redes neuronales](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#5-1104---aprendizaje-supervisado-redes-neuronales)
+6. [18/04 - Aprendizaje supervisado: Deep Learning](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#6-1804---aprendizaje-supervisado-deep-learning)
+7. [25/04 - Aprendizaje supervisado: Árboles de Decisión](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#7-2504---aprendizaje-supervisado-%C3%A1rboles-de-decisi%C3%B3n)
+8. [5/05 - Aprendizaje no supervisado](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#8-505---aprendizaje-no-supervisado)
+9. [9/05 - Métricas e interpretaibilidad](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#9-905---m%C3%A9tricas-e-interpretaibilidad)
+10. [17/05 - Optimización de hiperparámetros](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#10-1705---optimizaci%C3%B3n-de-hiperpar%C3%A1metros)
+11. [24/05 - Etica de la IA y repaso](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#11-2405---etica-de-la-ia-y-repaso)
+
+
+## Apuntes
+
+- [Unidad 1. Introducción al aprendizaje automático](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#unidad-1-introducci%C3%B3n-al-aprendizaje-autom%C3%A1tico)
+    - [Introducción al aprendizaje automático](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#unidad-1-introducci%C3%B3n-al-aprendizaje-autom%C3%A1tico)
     - Aplicación de la IA al entorno empresarial.
-    - Principales proveedores de IA.
-    - Procesos del aprendizaje automático
-- Unidad 2. Aprendizaje Supervisado
-    - Métodos de predicción lineal
-    - Métodos simbólicos
-    - Fundamentos de Deep Learning
-    - Problemas del aprendizaje predictivo
+    - [Principales proveedores de IA](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#principales-proveedores-de-ia)
+    - [Procesos del aprendizaje automático](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#procesos)
+- [Unidad 2. Aprendizaje Supervisado](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#unidad-2-aprendizaje-supervisado)
+    - [Métodos de predicción lineal](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#m%C3%A9todos-de-predicci%C3%B3n-lineal)
+    - [Métodos simbólicos](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#%C3%A1rboles-de-decisi%C3%B3n)
+    - [Fundamentos de Deep Learning](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#deep-learning)
+    - [Problemas del aprendizaje predictivo](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#problemas-del-aprendizaje-predictivo)
 - Unidad 3. Otras técnicas de Aprendizaje
     - No Supervisado - Agrupamiento
     - No Supervisado – Reducción de dimensiones
     - Sistemas de Recomendación
     - Aprendizaje de métricas y ordenaciones
-- Unidad 4. Evaluación del aprendizaje
-    - Conceptos de Evaluación.
-    - Evaluación del aprendizaje supervisado
-    - Cálculo de medidas de efectividad del aprendizaje supervisado
-    - Shap Values
+- [Unidad 4. Evaluación del aprendizaje](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#unidad-4-evaluaci%C3%B3n-del-aprendizaje)
+    - [Conceptos de Evaluación](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#conceptos-de-evaluaci%C3%B3n)
+    - [Evaluación del aprendizaje supervisado](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#2-evaluaci%C3%B3n-del-aprendizaje-supervisado)
+    - [Cálculo de medidas de efectividad del aprendizaje supervisado](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#evaluaci%C3%B3n-del-aprendizaje-no-supervisado)
+    - [Shap Values](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#3-shap-values)
     - Evaluación del aprendizaje no supervisado
 - Unidad 5. Análisis de textos y contenidos multimedia
     - Análisis semántico y sentimientos.
     - Clasificación de imágenes con ML ‘clásico’
     - Introducción a Pytorch.
     - Detección de imágenes con 
-    
-- Unidad 6. Ética de la Inteligencia Artificial
-    - Directrices éticas para el desarrollo de modelos de IA
-    - Detección de sesgos
-    - Ejemplos de dilemas éticos
+- [Unidad 6. Ética de la Inteligencia Artificial](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#unidad-6-%C3%A9tica-de-la-inteligencia-artificial)
+    - [Directrices éticas para el desarrollo de modelos de IA](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#1-directrices-%C3%A9ticas-para-el-desarrollo-de-modelos-de-ia)
+    - [Detección de sesgos](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#2-detecci%C3%B3n-de-sesgos)
+    - [Ejemplos de dilemas éticos](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/aprendizaje%20autom%C3%A1tico.md#3-ejemplos-de-dilemas-%C3%A9ticos)
 
 
 # Examen 
@@ -57,7 +72,7 @@ Coger un dataset, hacer el modelo y evaluarlo con train-test, cross-validation y
 - configurar como es debido
 - Elegir una buena métrica (no nos va a pedir ninguna métrica). Por ejemplo Sacar scores sobre las predicciones. 
 
-# Unidad 1. Introducción al aprendizaje automático
+# 1. 1/03 - Introducción al aprendizaje automático
 
 ## Objetivos
 
@@ -136,14 +151,14 @@ Las más conocidas son:
 
 ![](/img/aprendizaje_automatico/metodologia.png)
 
-# Principales proveedores de IA y casos de éxito 
+## Principales proveedores de IA y casos de éxito 
 
 - IBM 
 - Amazon 
 - Microsoft 
 - Google 
 
-## IBM 
+### IBM 
 - Cloud computing, computación cuántica, consultoría
 - Watson
     - Responde a preguntas en lenguaje natural (DeepQA)
@@ -151,17 +166,17 @@ Las más conocidas son:
     - Clasificación, detección de relación entre entidades. 
     - Generación, puntuación y ranking de hipótesis. 
 
-## Amazon 
+### Amazon 
 - Marketplace 
 - Cloud Computing (AWS)
 - Alexa 
 
-## Microsoft 
+### Microsoft 
 - Sistema operativo, ofimática. 
 - Cloud Computing (Azure)
 - Cortana 
 
-## Google 
+### Google 
 - Buscador, correo, Maps, Android
 - Cloud Computing (Google Cloud)
 - Asistente Google
@@ -184,7 +199,7 @@ Las más conocidas son:
 - KneighborClassifier(n_neighbors=3)
 
 
-7/03/23
+# 2. 7/03 - Aplicaciones e ingeniería de características del aprendizaje automático
 
 ### Aplicaciones
 
@@ -212,15 +227,15 @@ En la imagen de abajo vemos cómo cambia el espacio muestral cuando aumentamos e
 
 #### Principio de Parsimonia / navaja de Okham 
 
-"En igualda de condiciones, la expllicación más sencilla suele ser la más probable". 
+"En igualdad de condiciones, la expllicación más sencilla suele ser la más probable". 
 
 En Aprendizaje Automático: "cuantas menos variables utilice el modelo (y por lo tanto menos hiperparámetros), mejor."
 
 #### Mejora en las predicciones
 
-Los resultados con un mismo modelo y algoritmo de entrenamiento pueden mejorar mucho si se utilizan las las cracterísticas correctas. 
+Los resultados con un mismo modelo y algoritmo de entrenamiento pueden mejorar mucho si se utilizan las características correctas. 
 
-Por ejemplo , un modelo lineal puede ser capaz de resolver problemas no lineales si se le suministran las características apropiadas, construidas manualmente como funciones no lineales de las características apropiadas, construidas manualmente como funciones no lineales de las características originales. 
+Por ejemplo , un modelo lineal puede ser capaz de resolver problemas no lineales si se le suministran las características apropiadas, construidas manualmente como funciones no lineales de las características originales. 
 
 #### Selección de variables
 
@@ -243,7 +258,7 @@ La técnica general más habitual es el análisis de componentes principales (PC
 
 - Principal Component Analysis: Realiza una proyección de los datos originales en un espacio de dimensión menor en el que se maximiza la varianza. Las nuevas variables son combinaciones lineales de las originales. No utiliza la variable target, es una técnica no supervisada.
 
-- Linear Discriminant Analysis (solo clasificación): Realiza una proyección de los datos originales en un espacio de dimensión menor en el que se maximiza la separabilidad. Las nuevas variables son combinacviones lineales de las originales. 
+- Linear Discriminant Analysis (solo clasificación): Realiza una proyección de los datos originales en un espacio de dimensión menor en el que se maximiza la separabilidad. Las nuevas variables son combinaciones lineales de las originales. 
 
 ![](/img/aprendizaje_automatico/lda.png)
 
@@ -251,9 +266,7 @@ La técnica general más habitual es el análisis de componentes principales (PC
 ### Práctica 
 
 
-14/03/23
-
-# 2. Aprendizaje Supervisado 
+# 3. 14/03 - Aprendizaje supervisado: Modelos Lineales
 
 
 ## Modelos Lineales
@@ -349,7 +362,7 @@ python -m ipykernel install --user --name nombre_del_kernel --display-name "Nomb
 jupyter notebook
 ```
 
-28/03/23
+# 4. 28/03 - Aprendizaje supervisado: Máquinas de soporte, modelos kernel y Naive Bayes
 
 ## Máquinas de Vector De Soporte
 
@@ -361,11 +374,11 @@ A partir de ahora siempre vamos a estar hablando de métodos iterativos (ya que 
 
 ![](/img/aprendizaje_automatico/linear_svc.png)
 
-La idea de este modelo es ser estricto a la hora de escoger cuál solución nos quedamos, y es donde entra el concepto de margen, y aquí es donde entramos a definri el margen de separación. 
+La idea de este modelo es ser estricto a la hora de escoger cuál solución nos quedamos, y es donde entra el concepto de margen, y aquí es donde entramos a definir el margen de separación. 
 
 ![](/img/aprendizaje_automatico/linear_svc_2.png)
 
-La recta H1 es mala. En cambio, las rectas H2 y H3 clasifican perfectamente el dataset. Pero el H3 tiene un margen de separación más grande que H2, que están deterinados por los vectores de soporte (la distancia mínima a un punto). 
+La recta H1 es mala. En cambio, las rectas H2 y H3 clasifican perfectamente el dataset. Pero el H3 tiene un margen de separación más grande que H2, que están determinados por los vectores de soporte (la distancia mínima a un punto). 
 
 De acuerdo a este modelo, la recta H3 es la solución más robusta ya que cuando incorporemos datos de test, es probable que se acerquen a la frontera y el modelo que tenga el mayor margen de separación es el que menos errores va a cometer y por ende va a cometer menos errores de clasificación. 
 
@@ -375,7 +388,7 @@ De acuerdo a este modelo, la recta H3 es la solución más robusta ya que cuando
 
 ![](/img/aprendizaje_automatico/linear_svc_5.png)
 
-Es como una regresión logística pero con una función de coste distinta. Gracias a ello conseguimos un modelo lineal con un margen de separación máximo. 
+Es como una regresión logística pero con una función de coste distinta, la hinge-loss. Gracias a ello conseguimos un modelo lineal con un margen de separación máximo. 
 
 
 ### Linear SVR (Support Vector Regrresion)
@@ -390,7 +403,7 @@ En este modelo queremos conseguir que todos los puntos estén contenidos en un a
 
 - Los modelos lineales tienen muchas virtudes, pero su expresividad está muy limitada por su naturaleza lineal. 
 
-- Por suerte, existe un truco matemático para hacer questos modelos funcionen en un espacio de dimensiónn muy alto o incluso infinito, en el cual los problemas de clasificación son siempre linealmente separables y los problemas de regresión siempre se pueden resolver con una forma lineal, evitando tener que realizar operaciones matemáticas extremadamente costosas en dicho espacio de alta dimensión. Es el llamado "truco del kernel". 
+- Por suerte, existe un truco matemático para hacer que estos modelos funcionen en un espacio de dimensiónn muy alto o incluso infinito, en el cual los problemas de clasificación son siempre linealmente separables y los problemas de regresión siempre se pueden resolver con una forma lineal, evitando tener que realizar operaciones matemáticas extremadamente costosas en dicho espacio de alta dimensión. Es el llamado "truco del kernel". 
 - Para ello, es necesario que el modelo pueda expresarse en términos de x=xxt en lugar de Z. Las SVM cumplen esta condición. 
 - Sin embargo, estos métodos tienen un coste de entrenamiento y de predicción muy superior al de sus contrapartidas lineales, y su uso está limitado a datasets pequeños. 
 
@@ -411,9 +424,7 @@ Este es un modelo que en la práctica no se suele utilizar y funciona estrictame
 https://ml-playground.com/
 
 
-11/04/23
-
-## Redes Neuronales Artificiales
+# 5. 11/04 - Aprendizaje supervisado: Redes neuronales
 
 ### Limitaciones del modelo lineal
 
@@ -492,9 +503,7 @@ Los datos de validación evalúan el error por cada época o iteración.
 
 ![](/img/aprendizaje_automatico/early_stopping.png)
 
-### Deep Learning
-
-18/04
+# 6. 18/04 - Aprendizaje supervisado: Deep Learning
 
 ![](/img/aprendizaje_automatico/representation_learning.png)
 
@@ -624,11 +633,7 @@ Ejemplos:
 
 
 
-
-## Aprendizaje supervisado 
-25/04
-
-### Aprendizaje de reglas
+# 7. 25/04 - Aprendizaje supervisado: Árboles de Decisión 
 
 #### Métodos simbólicos
 
@@ -675,11 +680,11 @@ Las fronteras de clasificación utilizando el modelo de árbol de decisión son 
 Un solo árbol de decisión, por lo general no son muy potentes. Existen formas de mejorar un modelo de machine learning, que es construir *ensembles*: combinar modelos que ayudan a obtener mejores resultados. Aplica a los árboles de decisiones especialmente, porque si les cortamos la profundiad, son muy robustos y ajustan muy poco: son weak learners. 
 
 
-Técnicas de combinación de modelos (ensembles)
-• Bagging (Bootstrap aggregating)
-• Boosting
-• Stacking
-• Otras
+Técnicas de combinación de modelos (ensembles):
+- Bagging (Bootstrap aggregating)
+- Boosting
+- Stacking
+- Otras
 
 #### Bagging (Bootstrap aggregating)
 
@@ -697,7 +702,7 @@ Es una forma de construir ensembles. Una característica que tenemos que asegura
 #### Boosting 
 
 - Cada modelo se entrena dando más importancia al subconjunto de los datos que obtuvo malas predicciones con los modelos entrenados anteriormente. 
-    - Una vez entrenado el árbol de decisión, se pasa sobre el dataset, se generan las predicciones, se calculan las métricas de de los scores.
+    - Una vez entrenado el árbol de decisión, se pasa sobre el dataset, se generan las predicciones, se calculan las métricas de los scores.
     - Y los datos para los que las métricas son peores se les da más importancia en el dataset para la siguiente iteración: se sobremuestrean.
     - Tenemos un nuevo dataset en el que están los datos originales, pero además los datos para los que la predicción del modelo entrenado en primer lugar no fue muy buena, esos aparecen más veces y tienen más peso claro, van a tener más influencia en el entrenamiento del siguiente modelo. 
     - Se entrena un segundo árbol de decisión y esta vez con el data SET ya modificado. Entonces, ese nuevo rol de decisión va a aprender a hacer mejores predicciones en los datos en los que el primero falló porque esos datos aparecen más durante su entrenamiento.
@@ -719,7 +724,7 @@ Es una forma de construir ensembles. Una característica que tenemos que asegura
 
 
 
-5/05/2023 
+# 8. 5/05 - Aprendizaje no supervisado
 
 Práctica 2
 - Hacer un estudio con técnicas no supervisadas para agrupar los clientes en distintas categorías y luego qué se puede hacer con ello. 
@@ -729,8 +734,6 @@ Práctica 2
 Práctica 3. Reconocimiento de dígitos manuscritos
 
 - Hacer una mejora en el código. 
-
-# Aprendizaje no supervisado 
 
 En este caso el target (y) no está disponible como en el caso del Aprendizaje Supervisado.
 Veremos dos tipos de técnicas de Aprendizaje No Supervisado:
@@ -773,7 +776,7 @@ https://youtu.be/2kfY0R34Dy0?t=156
 
 ![](/img/aprendizaje_automatico/k_means_4.png)
 
-![](/img/aprendizaje_automatico/k_means_5.png
+![](/img/aprendizaje_automatico/k_means_5.png)
 
 ### Hierarchical Clustering
 
@@ -816,7 +819,7 @@ https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm#Example
 
 
 
-# Unidad 4. Evaluación del aprendizaje
+# 9. 9/05 - Métricas e interpretaibilidad
 
 ## Métricas e interpretabilidad 
 
@@ -859,6 +862,7 @@ La selección de la métrica es una de las decisiones más importantes y primera
 
 ![](/img/aprendizaje_automatico/metricas_clustering.png)
 
+
 ### Interpretabilidad 
 
 - Algunos modelos como los lineales o los árboles de decisión son fáciles de interpretar y es sencillo determinar qué peso ha tenido cada variable en sus predicciones.
@@ -876,7 +880,7 @@ https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduct
 - LIME (https://github.com/marcotcr/lime)
 - ELI5 (https://eli5.readthedocs.io)
 
-# Búsqueda de metaparámetros 17/05
+# 10. 17/05 - Optimización de hiperparámetros
 
 Práctica de la red convolucional
 
@@ -941,7 +945,7 @@ scikit-optimize con conda forge
 - Particle Swarm 
 - Algoritmos Genéticos y Estrategias Evolutivas (https://rednuht.org/genetic_cars_2/)
 
-# 12. Ética en la IA
+# 11. 24/05 - Etica de la IA y repaso
 
 ## Principios éticos
 
@@ -1011,3 +1015,945 @@ La inteligencia artificial es la ciencia que se encarga de desarrollar sistemas 
 - Son sistemas automáticos, portables, eficaces y escalables. 
 - Se corresponde con la fase de minería de datos en el KDD, y está en el centro de la ciencia de datos y de la analítica. 
 - Se corresponde con una de las capacidades humanas que son objeto de estudio por la IA. 
+
+## Tipos de Aprendizaje Automático 
+
+### Objetivos 
+
+Los objetivos que se pretenden alcanzar en este recurso son los siguientes:
+
+- Conocer los principales tipos de algoritmos de aprendizaje.
+- Comprender la diferencia entre algoritmos supervisados y no supervisados.
+- Ser capaces de identificar los problemas de clasificación y de regresión.
+- Conocer los fundamentos de los algoritmos de agrupamiento de ejemplos y
+variables.
+
+### ¿Por qué utilizar Aprendizaje Automático?
+
+sistemas de aprendizaje automático o machine learning son ideales para:
+1. Problemas que requieren mucho trabajo manual o largas listas de reglas.
+2. Entornos que evolucionan.
+3. Conseguir insights en datos complejos.
+
+En el siguiente ejemplo queremos clasificar el spam entrante. Nuestra aproximación más simple podría ser algo así: 
+
+
+![](/img/aprendizaje_automatico/aprendizaje_automatico.png)
+
+Pero...
+▪ Los spammers se pueden adaptar…
+▪ Las reglas cambiar…
+▪ Obligarnos a iterar sobre los distintos pasos del sistema montado…
+
+Si en vez de intentar definir las reglas a mano cada vez que queramos modificar nuestro sistema de detección de spam utilizamos un clasificador, podemos redefinir el problema como:
+▪ Estudiar el problema desde el punto de vista de qué variables me afectan a que sea spam, por ejemplo, patrones de palabras frecuentes en mails normales o spam (bag of words, tf-idf).
+▪ Entrenar un clasificador sobre las variables seleccionadas: e.g. naive-bayes, logistic regression...
+▪ Evaluar el rendimiento y poner en producción
+
+![](/img/aprendizaje_automatico/aprendizaje_automatico_2.png)
+
+
+### Clasificación de los tipos de aprendizaje
+
+#### En función de cómo aprenden
+
+![](/img/aprendizaje_automatico/tipos%20de%20a_a.png)
+
+#### En función de la actualización interna del algoritmo 
+
+- **Online Learning.** Algoritmos que permiten actualizar su estado de forma incremental a medida que nueva información llega (ideal para Big Data o modelos que deben adaptarse rápidamentea a los cambios de manera autónoma). 
+- **Batch Learning.** El sistema no es capaz de aprender de forma incremental y necesitamos todos los datos disponibles durante la fase de entreno. En el caso en el que queramos incorporar nueva información al modelo, no podremos añadirle simplemente los nuevos datos adquiridos, si no que tendremos que entrenar un modelo nuevo y reemplazar el antiguo. Al necesitar todos los datos en memoria puede ser caro a nivel computacional.
+
+#### En función de la referencia que utilizan para clasificar/predecir
+
+Hacemos una tercera clasificación de acuerdo a si nuestros algoritmos trabajan comparando nuevas instancias con las ya conocidas o bien detectar patrones para crear un modelo.
+
+- Aprendizaje basado en modelos: Adapta parámetros del modelo a los datos y los generaliza a nuevas observaciones.
+- Aprendizaje basado en instancias: Requiere una medida de similaridad. Evalúa cuan similar es un punto nuevo a uno de los existentes (k-nearest neighbours).
+
+
+#### Aprendizaje Supervisado
+
+Se habla de aprendizaje supervisado cuando se hace referencia a que el modelo construido está basado en unas observaciones sobre las que ya conocíamos la respuesta (es decir, todos los datos de entrenamiento están etiquetados) e intentamos averiguar qué responderíamos ante una serie de datos nuevos.
+
+![](/img/aprendizaje_automatico/supervisado.png)
+
+Grupos de aprendizaje supervisado:  clasificación y los algoritmos de regresión. La mejor forma de distinguir entre uno y otro es preguntarse si necesitamos predecir una cantidad o un valor continuo (cuánto vale una casa dado un vecindario y la superficie), o si queremos predecir una clase (dado el valor de una casa y la superficie dime en que vecindario está construida).
+
+##### Algoritmos de Calsificación 
+
+Se aplican si el tipo de la variable objetivo es categórica, nominal o escalar, es decir, toma una serie discreta de posibles valores, aunque estos puedan ser códigos numéricos. 
+
+Cada uno de los posibles valores se considera una clase distinta y es por ello por lo que se llaman algoritmos de clasificación.
+
+El problema puede ser binario o no, es decir, puede tener dos o más clases. 
+
+Adicionalmente, las clases pueden ser solapadas o no, es decir, podría darse el caso de que un registro pertenezca a dos o más clases a la vez en determinados problemas (ej. noticias periodísticas). 
+
+Entre los algoritmos más usados y útiles encontramos:
+1. Logistic Regression
+2. Regression trees and ensembles
+3. Support Vector Classifiers
+
+##### Algoritmos de Predicción Numérica o Regresión 
+
+Los algoritmos de regresión o predicción numérica son aquellos algoritmos de aprendizaje supervisado que son capaces de predecir una variable objetivo-numérica real o continua.
+
+Algunos algoritmos de regresión se llaman exactamente así, porque la regresión es un concepto estadístico de aproximación numérica de una serie de puntoss (regresión lineal, la regresión logística y la regresión Lasso). 
+
+Otros algoritmos como los bayesianos (basados en probabilidades y el teorema de Bayes, como el algoritmo Bayes ingenuo o las redes bayesiana), devuelven probabilidades, que no dejan de ser aproximaciones numérica en el intervalo [0,1].
+
+Los problemas de clasificación y los de regresión están muy relacionados entre sí. En ambos casos se trata de predecir el valor de una variable dependiente y con mucha frecuencia se pueden tratar problemas de clasificación como problemas de regresión, o a la inversa.
+
+Por ejemplo, los algoritmos de predicción numérica que devuelven una probabilidad, como los algoritmos bayesianos, pueden usarse para la clasificación binaria. 
+
+Entre los algoritmos más usados para realizar regresiones encontramos:
+1. Linear Regression and variants (échale un vistazo a esto):
+    a. Ridge Regression (l2)
+    b. Lasso Regression (l1)
+    c. Stepwise Regression
+2. Regression trees and trees ensembles
+3. Support Vector Regressors
+
+#### Aprendizaje No Supervisado 
+
+Los algoritmos de aprendizaje no supervisado están orientados a problemas en los que no existe una variable objetivo, es decir, todas las variables del problema se consideran independientes, y su finalidad es generar grupos de datos similares entre sí y distantes de los demás grupos.
+
+Los algoritmos de aprendizaje no supervisado se utilizan para organizar los datos facilitando su análisis exploratorio y su comprensión, pero también pueden usarse para asimilar nuevos datos a los grupos existentes. Por ejemplo, en función de su similitud con el resto de los usuarios, podemos decidir que un nuevo usuario pertenece a un grupo o a otro.
+
+Por tanto, este conocimiento o modelo de grupos generado también es accionable, es decir, se puede utilizar también de manera práctica, porque podemos aplicar a este nuevo dato el mismo tratamiento que estamos dando a los demás datos de su grupo, en fases posteriores de trabajo.
+
+Los algoritmos de aprendizaje no supervisado se pueden organizar en dos grandes grupos: 
+-  los que pretenden estructurar los ejemplos (agrupamiento de instancias) 
+- los que pretenden estructurar las variables (agrupamiento de características). 
+
+ Es decir, los algoritmos pueden abordar las filas o las columnas de nuestro dataset. 
+
+ Podemos encontrar tres otras subcategorías en función del objetivo que definamos o del problema a cubrir:
+
+ ##### Segmentación o CLustering
+
+Los algoritmos de agrupamiento de instancias son algoritmos de clasificación en los que las clases no están predefinidas, es decir, se crean los grupos por similitud o distancia entre los elementos que componen dichos grupos, denominados clusters.
+
+Un algoritmo de agrupamiento pretende generar grupos de ejemplos de forma que:
+- Los elementos de cada grupo sean lo más parecidos posibles entre sí.
+-  Los grupos sean lo más distantes posibles de los demás.
+
+Un proceso relativamente frecuente en la aplicación de algoritmos de aprendizaje es la aplicación de algoritmos de clustering para encontrar grupos de ejemplos similares entre sí, y la aplicación subsiguiente de algoritmos de clasificación o regresión para la construcción de clasificadores especializados para cada uno de los grupos. De este modo frecuentemente se logra una mayor precisión o efectividad en cada uno de los grupos que aplicando el algoritmo de clasificación o regresión a la totalidad de los ejemplos de una sola vez.
+
+Este tipo de algoritmos se enfrenta a dos dificultades principales:
+
+1. Número óptimo de grupos: determinar el número óptimo de grupos, que se desconoce a priori (se selecciona el mejor grupo por medio de prueba y error y métricas de calidad)
+2. Similitud o distancia: construir una métrica adecuada de similitud o distancia entre ejemplos que tenga en cuenta las características propias de las variables.
+
+
+Algoritmos populares: 
+
+1. k-means y variantes
+2. (Hierarchical) Density-Based Spatial Clustering of Applications with Noise: (H)DBSCAN
+3. Hierarchical clustering
+4. Expectation Maximization (Gaussian mixture models...)
+
+
+##### Algoritmos de agrupación de características
+
+Estos algoritmos pueden ser tan simples como mediciones de correlación entre dos variables, de modo que se busque detectar que variables son redundantes, porque no aportan información sobre lo que ya dice otra variable. Además, es posible estudiar la correlación entre una variable independiente y la variable dependiente en un problema predictivo, de modo que se estime la capacidad predictiva de la variable independiente. 
+
+Entre los algoritmos más usados y útiles para la reducción de dimensionalidad no encontramos:
+1. Principal Component Analysis (PCA)
+2. t-distributed Stochastic Neighbor Embedding (t-SNE)
+
+#### Repositorios de problemas y aplicaciones 
+
+1. Kaggle
+2. OpenML
+3. UCI Repository 
+4. KDNuggets 
+
+#### Clasificaciones y definiciones complementarias
+
+- Los algoritmos simbólicos son los que adquieren y manipulan el conocimiento de manera explícita, a través de representaciones que son comprensibles para el ser humano, como los árboles de decisión o los sistemas de reglas.
+- El método subsimbólico es el conocimiento adquirido a través del aprendizaje se encuentra implícito en una representación no directamente interpretable por los seres humanos, como por ejemplo en una red neuronal o una matriz de probabilidades de un método bayesiano.
+- Algoritmos bioinspirados, que son aquellos que emulan los comportamientos encontrados en los seres vivos de la naturaleza. 
+    - Algoritmos genéticos: son algoritmos de optimización que reflejan las leyes de la supervivencia de la naturaleza a través de un proceso de generación de individuos por cruce genético con alteraciones aleatorias, y de una función de ajuste que indica la capacidad de cada individuo de adaptarse a su entorno, de modo que en cada generación solo se reproducen los más aptos, es decir, los más próximos a resolver el problema objetivo.
+    - Algoritmos de enjambre (swarm intelligence): concepto que hace referencia a los comportamientos colectivos de grupos de seres vivos como las aves o los peces. Estos algoritmos se basan en el principio de que el comportamiento individual de una entidad puede ser sumamente simple, pero al juntar a muchos individuos de la misma especie emerge un comportamiento colectivo mucho más sofisticado. Se pude considerar que los algoritmos de hormigas son un comportamiento de enjambre.
+
+
+### Repositorios de problemas y aplicaciones
+
+1. Kaggle
+2. **OpenML:** este repositorio de problemas OpenML almacena casi 20.000 conjuntos de datos en los que se pueden aplicar distintas técnicas de aprendizaje, con más de 50 000 tareas ya definidas. 
+3. **UCI Repository:** el repositorio de datasets de aprendizaje automático UCI Repository, almacena unos 400 conjuntos de datos donados para la ciencia. 
+4. **KDNuggets:** es un índice de datasets albergados en sitios públicos y de listados de datasets. Es un sitio sumamente popular y en el que es posible encontrar enlaces a los sitios anteriores, y la clasificación de los problemas y algoritmos es completamente plana. A través de KDNuggets es posible encontrar otros repositorios de problemas más especializados, como problemas de grandes dimensiones (Big Data real) o problemas de un ámbito específico (por ejemplo, medicina).
+
+### Clasificaciones y definiciones complementarias 
+
+- **Algoritmos simbólicos** son los que adquieren y manipulan el conocimiento de manera explícita, a través de representaciones que son comprensibles para el ser humano, como los árboles de decisión o los sistemas de reglas.
+- **Algoritmos subsimbólicos**:  el conocimiento adquirido a través del aprendizaje se encuentra implícito en una representación no directamente interpretable por los seres humanos, como por ejemplo en una red neuronal o una matriz de probabilidades de un método bayesiano.
+- los algoritmos bioinspirados, son aquellos que emulan los comportamientos encontrados en los seres vivos de la naturaleza.
+- **Algoritmos genéticos:** son algoritmos de optimización que reflejan las leyes de la supervivencia de la naturaleza a través de un proceso de generación de individuos por cruce genético con alteraciones aleatorias, y de una función de ajuste que indica la capacidad de cada individuo de adaptarse a su entorno, de modo que en cada generación solo se reproducen los más aptos, es decir, los más próximos a resolver el problema objetivo.
+-**Algoritmos de enjambre (swarm intelligence)**: concepto que hace referencia a los comportamientos colectivos de grupos de seres vivos como las aves o los peces. Estos algoritmos se basan en el principio de que el comportamiento individual de una entidad puede ser sumamente simple, pero al juntar a muchos individuos de la misma especie emerge un comportamiento colectivo mucho más sofisticado. Se pude considerar que los algoritmos de hormigas son un comportamiento de enjambre.
+
+## Principales proveedores de IA
+
+### Objetivos 
+
+Hacer un pequeño repaso por los principales proveedores de Inteligencia artificial, ver algún caso de uso y una introducción de manejo de datos masivos y su implicación.
+
+### Principales proveedores
+
+- AEye (<https://www.aeye.ai/>), es una empresa dedicada a crear algoritmos de inteligencia artificial utilizando sensores inteligentes definibles por software para el guiado de vehículos autónomos.
+- AIBrain (<https://aibrain.com/>), es una empresa que construye soluciones de IA para smartphones y aplicaciones robóticas a lo largo de cuatro dimensiones:cognitiva, social, física y emocional. Su principal objetivo es construir una IA totalmente autónoma aplicando la resolución de problemas, el aprendizaje y la memoria.
+- AlphaSense (<https://www.alpha-sense.com/>), empresa qu ha desarrollado un motor de búsqueda muy potente impulsado por IA y que es capaz de hacer búsqueda de información entre más de 2.000 fuentes de datos comerciales premium que incluyen información bursátil, transcripciones , presentaciones y revistas de noticias de comercio, toto estos está principalmente diseñado para empresas de inversión, bancos y compañías, dónde en la mayoría de la veces se tienen que tomar decisiones estratégicas en muy poco tiempo y donde la información para tomarlas es vital.
+- Amazon, además del comercio marketplace, también ofrece servicios de IA orientados al consumidor y al negocio (Alexa). 
+
+
+## Procesos
+
+El AA consta de dos procesos básicos que son: 
+- Entrenamiento 
+- Predicción
+
+![](/img/aprendizaje_automatico/procesos.png)
+
+![](/img/aprendizaje_automatico/procesos_2.png)
+
+**Es imprescindible evaluar sistemáticamente la calidad del aprendizaje para optimizarlo** introduciendo:
+- Nuevos hiperparámetros. 
+- Nuevas variables. 
+- Otros ejemplos en el dataset de entrenamiento .
+- Selección y extracción de variables. 
+
+Si no somos capaces de evaluar la calidad de nuestro modelo, el modelo no sirve. 
+
+![](/img/aprendizaje_automatico/procesos_3.png)
+
+
+Cuando tenemos un modelo bien evaluado y con alta capacidad de representación, debemos pasar a la industrialización el proceso de creación y despliegue de los modelos. 
+
+
+![](/img/aprendizaje_automatico/despliegue.png)
+
+![](/img/aprendizaje_automatico/industrializacion.png)
+
+Podemos reentrenar nuestros modelos sobre los errores o sobre todos los datoss nuevos, y automatizar el proceso de aprendizaje con AutoML. 
+
+![](/img/aprendizaje_automatico/procesos_4.png)
+
+Debemos reentrenar nuestros modelos periódicamente para hacer frente al Concept Drift. 
+
+![](/img/aprendizaje_automatico/procesos_5.png)
+
+![](/img/aprendizaje_automatico/procesos_6.png)
+
+![](/img/aprendizaje_automatico/procesos_7.png)
+
+
+# Unidad 2. Aprendizaje Supervisado 
+
+
+
+## Métodos de predicción lineal 
+
+### Objetivos 
+
+- Conocer los principios generales de los métodos de predicción lineal.
+- Conocer cómo funcionan en general los métodos más populares, especialmente los métodos de regresión lineal y support vector machines.
+-  Saber cómo se utilizan los algoritmos anteriores en Scikit-learn.
+- Conocer cómo se utilizan los algoritmos anteriores en Spark.
+
+### 1. Introducción 
+
+el método de predicción se llama lineal porque el modelo es una función lineal en la que ninguno de los términos en x está elevado a ninguna potencia. 
+
+1. Para problemas de predicción numérica o regresión, en los que al sustituir el ejemplo objetivo se obtiene un valor que es la estimación para la variable objetivo en dicho ejemplo.
+2. Para problemas de clasificación binaria, en los que después de aplicar la función objetivo es necesario usar además una regla de decisión de la forma f(𝑋̅)≥U para un umbral U determinado, de forma que clasificamos un ejemplo X como positivo (perteneciente a la clase) si el valor f(X)≥U, y como negativo en caso contrario.
+
+Razones por la cual este algoritmo es popular: 
+1. Métodos con un grado de eficacia alto.
+2. Rápidos en la fase de entrenamiento. 
+3. Modelo sencillo de interpretar.
+
+Cada método está inspirado por principios distintos:
+- Estadísticos, (en el caso de )la regresión lineal o logística)
+- Probabilísticos, (Bayes Ingenuo).
+- O algebraicos (SVM).
+
+
+## Árboles de decisión 
+
+### Introducción 
+
+Los árboles de decisión son una buena representación del conocimiento: operativa, clara y sencilla.
+
+Además, sus algoritmos de inducción son también relativamente sencillos: En cada paso, se elige un test que se configura como un nodo y se divide la colección de acuerdo con él, progresando de manera recursiva sobre cada subcolección generada por el test anterior.
+
+### Random Forest
+
+Un random forest no es más que un conjunto de árboles.
+
+por qué no se obtienen resultados idénticos? Dos razones:
+1. **Subsampling:** Cada árbol está entrenado con un subconjunto de datos seleccionado aleatoriamente
+2. **Max Features:** El punto óptimo para la división viene de un conjunto de features seleccionadas aleatoriamente, controlado por el hiperparametro max_features.
+
+### Gradient Boosting Trees
+
+Los algoritmos de Gradient Boosting entrenan en los errores residuales. Lo hacen
+entrenando de manera iterativa una secuencia de modelos, basados en el error residual
+del modelo anterior. Cada modelo reduce el error residual que se encuentra en la
+predicción anterior. 
+
+### Feature importance
+
+Afortunadamente, todos estos modelos una vez son
+entrenados tienen un atributo llamado feature_importances_ que devolverá un array
+con la importancia de las features.
+
+## Deep Learning
+
+### Objetivos
+
+- Comprender los fundamentos del Deep Learning.
+- Aplicar la técnica de backpropagation.
+
+### Fundamentos 
+
+#### ¿Qué es el Deep Learning? 
+
+Deep Learning es una rama del Machine Learning, que intenta simular la estructura biológica y la funcionalidad de un cerebro humano usando redes de neuronas artificiales. Estas redes pueden incluir:
+- Perceptrón multicapa.
+- Redes neuronales convolucionales.
+- Redes neuronales recurrentes.
+
+Además, estas redes son jerárquicas o multicapa, siendo capaces así de modelar grandes abstracciones de datos. 
+
+Uno de los principales beneficios de usar deep learning en contraposición con el clásico machine learning, es que el performance es que cuantos más datos, mejor modelo.
+
+
+Algunas de las aplicaciones recientes del deep learning son:
+- Generar captions.
+- Resumir.
+- Traducir texto.
+- Generar audio.
+- Producir arte.
+
+#### El perceptrón 
+
+Un perceptrón es un clasificador lineal que se entrena con aprendizaje iterativo.
+El modelo funciona como sigue:
+- Input: Un datapoint, este punto se transformará en un vector de longitud n, con cada elemento describiendo el valor de cada una de las features.
+- Output: Una clasificación, -1 o 1. 
+
+![](/img/aprendizaje_automatico/perceptron.png)
+
+
+##### Funciones de activación 
+
+- Sigmoide
+- Tanh
+- ReLu. Función más común y que tiene mejor desempeño 
+
+## Problemas del Aprendizaje Predictivo 
+
+
+### Objetivos
+
+Los objetivos que se pretenden alcanzar en este recurso son los siguientes:
+- Entender el problema del sobreajuste y cómo abordarlo.
+- Comprender en qué consiste el desbalanceo de clases y cómo resolverlo.
+- Aprender a abordar los problemas de costes de error asimétricos.
+- Ser capaz de gestionar un problema de clases solapadas.
+- Conocer las técnicas para la optimización de hiperparámetros.
+
+### Introducción 
+
+Los problemas más comunes en la práctica son: 
+
+
+![](/img/aprendizaje_automatico/problemas.png)
+
+### Sobreajuste
+
+El problema del sobreajuste u overfitting consiste en que el modelo resulta ser muy efectivo sobre los datos de entrenamiento, pero mucho menos sobre los datos reales, de operación. Los motivos pueden ser: 
+
+- Los datos de entrenamiento no representan adecuadamente a los datos reales.
+- Los algoritmos se optimizan demasiado en el entrenamiento. 
+- Falta de evaluación rigurosa y sistemática. 
+
+Para evitar estos problemas se utilizan técnicas de mejora de los algoritmos que son específicas de cada uno de ellos. P. ej.: 
+
+- Árboles de decisión: los árboles de decisión incluyen un método de poda o prunning que acorta las ramas demasiado largas que tienen pocos ejemplos en las hojas, por ser demasiado específicas. 
+- Comités de clasificadores: los comités de clasificadores como el Boosting, Random Forest o el Stacking permiten construir múltiples modelos sobre subconjuntos de los datos de entrenamiento y combinarlos de manera eficaz para garantizar una variabilidad estadística del modelo global que los combina a todos.
+
+### El desbalanceo de las clases
+
+Este problema consiste en que los datos poseen una distribución de clases muy desequilibrada. 
+
+Los algoritmos de aprendizaje normalmente disponen de algún mecanismo de optimización. 
+
+El árbol de decisión se construye segmentando cada nodo o subcolección de datos por medio de un test que parte ese subconjunto de datos de manera óptima, y para ello utiliza métricas como la ganancia de información o la ratio de ganancia (gain ratio).
+
+Para afrontar el problema del desbalanceo de clases, se pueden utilizar diversas técnicas:
+- Procedimiento de estratificación para rebalancear las clases.
+    - **Undersampling o inframuestreo:** eliminar ejemplos de la clase mayoritaria, hasta lograr una distribución más equilibrada. El principal problema de esta técnica es que perdemos datos de entrenamiento.
+    - **Oversampling o sobremuestreo:** multiplicar aleatoriamente los datos de la clase minoritaria. Como no se pierden datos de entrenamiento, esta técnica se considera preferible al inframuestreo, aunque a cambio impacta en el coste en tiempo al aumentar el número de ejemplos.
+- Aprendizaje sensible al coste de error. Sabiendo que casi todos los algoritmos están guiados por el error, es decir, intentan minimizarlo, se puede ajustar la métrica de error en la clase menos representada haciéndola más costosa para que el algoritmo se concentre más en clasificar correctamente nuestros ejemplos objetivo. 
+
+### Clases solapadas
+
+Este problema se produce en los casos de clasificación.
+
+Para afrontar este problema, se puede binarizar el problema convirtiéndolo en N problemas distintos (donde N es el número de clases). Alternativamente, se pueden usar políticas de umbral o ranking. 
+
+La binarización de problemas de clasificación se suele denominar one hot encoding. 
+
+![](/img/aprendizaje_automatico/one_hot_encoding.png)
+
+Para entrenar nuestro modelo, se construyen N datasets (4 en este caso), y se entrena y evalúa con cada uno por separado. El resultado de la evaluación es el promedio sobre los N problemas.
+
+Otra alternativa es utilizar las políticas de umbral: Si nuestro tipo de modelo es capaz de arrojar un valor numérico, se puede establecer un umbral sobre el ranking de posibles valores y asignar a las clases aquellos valores que superan un determinado umbral.
+
+Esta técnica tiene como desventaja que depende de que el algoritmo produzca probabilidades o valores numéricos de clasificación. Sin embargo, tiene una ventaja: puede ofrecer al usuario un “top” de clases probables, ordenadas, de modo que el usuario puede tomar una decisión más flexible.
+
+Por ejemplo, un modelo para predicción de enfermedades puede ofrecer a un médico las tres enfermedades más probables de un paciente en función de los resultados de las pruebas que hemos realizado, incluso con un valor de probabilidad, y el médico puede diagnosticar con más base o incluso recomendar nuevas pruebas que puedan ayudar a realizar un diagnóstico 100 % efectivo.
+
+### Optimización de hiperparámetros 
+
+Todos los algoritmos relacionados con el aprendizaje automático tienen hiperparámetros.
+
+Los hiperparámetros se llaman así porque son parámetros del algoritmo, ya que tradicionalmente se han considerado parámetros a las variables independientes del dataset.
+
+# Unidad 4. Evaluación del aprendizaje
+
+## Conceptos de evaluación 
+
+### Objetivos
+
+- Motivar la necesidad de evaluar el aprendizaje automático.
+- Entender los distintos aspectos a evaluar en un proceso de este tipo.
+- Comprender la relación entre eficacia y rendimiento.
+- Entender el concepto de curva de aprendizaje.
+- Conocer la importancia de la compacidad, expresividad e inteligibilidad de los modelos analíticos.
+
+### 1. Introducción a los conceptos de evaluación
+
+La evaluación de los algoritmos analíticos es un proceso absolutamente esencial. No se puede mejorar la calidad de lo que no se mide. 
+
+Existen dos procesos básicos en la aplicación de un método de aprendizaje: 
+
+1. **Proceso de entrenamiento:** durante este proceso, se aplica un algoritmo que construye un modelo sobre los datos de entrada o dataset de entrenamiento.
+2. **Proceso de aplicación:** es el proceso de aplicación del modelo sobre un conjunto de datos nuevos, no vistos previamente.
+
+#### ¿Cómo sabemos si el modelo que hemos construido es suficientemente bueno?
+
+La capacidad de acierto de un modelo es importante, pero no es el único parámetro que se tiene que considerar y medir. Existe un balance entre los distintos aspectos que queremos evaluar.
+
+1. **Eficacia:** la capacidad de acierto del mismo sobre los nuevos datos, o incluso sobre los propios datos de entrenamiento.
+2. **Eficiencia**: Cómo de rápido es durante los procesos de entrenamiento y de aplicación.
+3. **Se puede medir la compacidad y expresividad del modelo**: si un modelo es más corto, es más compacto (por ejemplo, tiene menos reglas de clasificación que otro), y por lo tanto es mejor. 
+4. **Claridad o inteligibilidad del modelo:** si un modelo es más fácil de entender para un ser humano que otro modelo, el primero es mejor.
+
+### 2. La evaluación de la eficacia
+
+ Se trata de un aspecto medible de una manera relativamente fácil, si disponemos de un conjunto de datos de referencia que ya han sido clasificados o etiquetados por el ser humano.
+
+
+Los algoritmos de aprendizaje pueden clasificarse en función de si son supervisados o no:
+
+- Algoritmos de aprendizaje supervisado: los algoritmos o problemas de aprendizaje supervisado, ya sean de clasificación o de regresión, son los más fáciles de medir en términos de eficacia.
+- Algoritmos de aprendizaje no supervisado: Se toma como referencia una clasificación manual realizada por un ser humano, pero también es posible definir métricas de calidad en términos de la cohesión o densidad de los grupos generados y su distancia a los demás grupos. Cuanto más parecidos entre si sean los ejemplos que hay dentro de cada grupo y más diferentes de los ejemplos de otros grupos, mejor será nuestro modelo no supervisado. 
+
+Los algoritmos de aprendizaje típicamente son tanto más efectivos cuanto de más datos dispongan para su entrenamiento. 
+
+![](/img/aprendizaje_automatico/curva_aprendizaje.png)
+
+#### ¿Qué es mejor, más datos o mejores algoritmos? O planteado de otra forma, ¿es mejor conseguir más datos o diseñar mejores algoritmos para lograr niveles de efectividad más altos?
+
+Después de décadas en las que la comunidad científica ha invertido considerable esfuerzo en el diseño de algoritmos cada vez más efectivos, el personal de Google invita a utilizar algoritmos relativamente simples sobre grandes cantidades de datos.
+
+Su hipótesis es que hasta los algoritmos más simples pueden alcanzar la efectividad de los más sofisticados, suponiendo que los dotemos de la suficiente cantidad de datos. Por otro lado, el mismo Google es el promotor de la API de deep learning más popular en la actualidad, TensorFlow, que abordar problemas aún abiertos como el procesamiento del lenguaje natural o el reconocimiento de imagen,
+
+No obstante no solo tener más datos importa, sino que estos sean de mayor calidad también es relevante. Y no solo la eficacia importa, porque trabajando con datasets de varios terabytes, el tiempo de entrenamiento o de clasificación puede ser tan alto que la complejidad del algoritmo impida su aplicación práctica. 
+
+### La evaluación del rendimiento 
+
+Cuando hablamos de rendimiento, hablamos fundamentalmente del tiempo de ejecución de un algoritmo, no de su eficacia o grado de acierto. 
+
+Nos interesa conocer la eficiencia práctica de los algoritmos de aprendizaje, es decir, el tiempo que tardan en sus procesos de entrenamiento y predicción. Pero los algoritmos no deben ser eficientes solo en tiempo, sino también en el uso de otros recursos disponibles en el sistema, como la memoria o el disco. Un algoritmo puede ser muy eficiente en tiempo, pero requerir para ello una cantidad de memoria no disponible, por lo que el tiempo de acceso a disco lo va a ralentizar.
+
+### La evaluación de la expresividad
+
+- Un clasificador lineal se representa como una línea recta en un espacio bidimensional (dos variables independientes), o como un plano en un espacio tridimensional. En general, geométricamente se trata de un hiperplano. Estos clasificadores son capaces de hacer un buen trabajo en problemas linealmente separables. Un problema es linealmente separable cuando se puede construir un hiperplano que deje a un lado todos los ejemplos de una clase y al otro los de la contraria. Gráficamente,
+- Árboles de decisión: se dice que los árboles de decisión tienen la expresividad suficiente como para abordar de manera eficaz problemas no linealmente separables.
+
+### La evaluación de la compacidad 
+
+
+Un modelo compacto es aquel que construye un número mínimo de hipótesis sobre los datos.
+
+En general, es más fácil comparar la compacidad de las distintas expresiones de un algoritmo.
+
+### La claridad e inteligibilidad 
+
+Los algoritmos de aprendizaje deben dar lugar a modelos capaces de realizar predicciones o tomar decisiones sobre los datos, pero dichas decisiones deben ser comprensibles para los seres humanos ya que no van a tomar decisiones fundamentándose sobre un algoritmo que no entienden su proceso. 
+
+La **claridad** de un modelo es importante porque permite a un ser humano tomar decisiones ejecutivas basadas en el modelo con confianza.
+
+La **compacidad** de un modelo se mide en términos de la teoría de la información y tiene aplicación para comparar modelos desde el punto de vista de la navaja de Occam. Los modelos más simples y compactos son preferibles porque son más fáciles de entender y menor propensos al sobreajuste.
+
+## 2. Evaluación del aprendizaje supervisado
+
+### Objetivos
+Los objetivos que se pretenden alcanzar en este recurso son los siguientes:
+- Entender las fases del aprendizaje y fases a evaluar.
+- Conocer las métricas más relevantes para la regresión.
+- Conocer las métricas más relevantes para la clasificación.
+- Conocer las técnicas de selección de modelos.
+- Conocer las técnicas de optimización de hiperparámetros
+
+### 1. Evaluación del aprendizaje supervisado
+
+Como hemos visto anteriormente, la efectividad, que mide el grado de acierto de un sistema, es el aspecto de la evaluación al que más atención se presta habitualmente en la evaluación del aprendizaje automático.
+
+#### Protocolo de evaluación 
+
+El protocolo de evaluación define cómo se van a obtener las muestras para evaluar un sistema. 
+
+![](/img/aprendizaje_automatico/protocolo-evaluacion.png)
+
+Determinan cómo se obtiene el dataset de evaluación, cuando típicamente partimos de un dataset global etiquetado (clasificación) o estimado (regresión) manualmente.
+
+Con carácter general, existen tres protocolos de evaluación:
+
+1. Evaluación sobre el dataset de entrenamiento (training set): Se puede usar como primera aproximación porque lógicamente un modelo tiene que ser eficaz sobre aquello mismo sobre lo que ha aprendido.Sirve para descartar aquellos algoritmos que den muy malos resultados.
+2. Evaluación sobre un subconjunto de prueba (test set): 
+    - Dividimos el dataset de entrenamiento en dos subconjuntos, entrenamiento y evaluación. 
+    - Aseguramos que la proporción de clases o valores es similar en ambos subconjuntos.
+    - Entrenamos sobre el subconjunto de entrenamiento.
+    - Calculamos las predicciones sobre el subconjunto de evaluación o prueba.
+    - Contrastamos lo de que dice el clasificador y lo que originalmente vale la variable objetivo con una métrica de evaluación. 
+
+#### Sesgo y varianza 
+
+![](/img/aprendizaje_automatico/eeror.png)
+
+- Sesgo: La diferencia entre el valor predicho por el modelo y el valor real.
+
+![](/img/aprendizaje_automatico/sesgo.png)
+
+- Varianza: El error producido debido a la sensibilidad del modelo con respecto a los datos de entreno.
+
+![](/img/aprendizaje_automatico/varianza.png)
+
+#### Compromiso entre sesgo y varianza 
+Los modelos paramétricos, tipo los lineales, son modelos con un alto bies y una baja varianza. Por otro lado, los algoritmos no paramétricos, tipo los árboles de decisión, son modelos con bajo bies y alta varianza.
+
+![](/img/aprendizaje_automatico/sesgo-varianza.png)
+
+![](/img/aprendizaje_automatico/sesgo-varianza-2.png)
+
+#### Validación cruzada 
+
+Se considera el método estándar para el cálculo de métricas de evaluación en algoritmos supervisados o predictivos.
+
+Surge para aliviar los problemas del protocolo del subconjunto de evaluación. Este protocolo
+esencialmente consiste en repetir el protocolo de evaluación sobre un subconjunto de
+prueba varias veces y promediar la medición de eficacia. 
+
+- Dividimos el dataset de entrenamiento en K grupos aleatorios (con valores de
+K típicos 3,5 o 10).
+- Efectuamos K pruebas, en cada una reservamos un grupo distinto para evaluación y K-1 grupos para entrenamiento.
+- Entrenamos sobre K-1 grupos, clasificamos el grupo restante y medimos sobre
+el grupo restante.
+- Promediamos los K resultados obtenidos.
+
+##### Ventajas sobre train-test
+
+- No evalúa nunca sobre los datos de entrenamiento.
+- No depende de la aleatoriedad.
+- Se aprovechan todos los datos para entrenar y evaluar.
+
+#### Ajuste de hiperparámetros 
+
+Podemos ajustar los hiperparámetros de ciertos modelos para aumentar o disminuir su "flexibilidad" a la hora de adaptarse a los datos y seleccionar el mejor a partir del resultado de la validación cruzada.
+
+Automatizamos este proceso por fuerza bruta definiendo un espacio de búsqueda sobre los distintos hiperparámetros que queremos probar y calculando el error cometido para cada una de las combinaciones, con herramientas como GridSearchCV y RandomSearchCV. 
+
+![](/img/aprendizaje_automatico/mejora_hiper.png)
+
+### 2. Métricas de efectividad para predicción numérica
+
+Las métricas más habituales en el caso de la predicción numérica o regresión son: 
+
+- El error total. 
+- El error medio. 
+
+- El error absoluto
+
+![](/img/aprendizaje_automatico/absoluto.png)
+
+- Error absoluto medio: Es más robusto a los valores extremos y su interoperabilidad es más alta que la del RMSE ya que también está en las unidades de la variable a predecir con la ventaja de que el dato no ha sufrido ninguna transformación.
+
+![](/img/aprendizaje_automatico/mae.png)
+
+- El error cuadrático
+
+![](/img/aprendizaje_automatico/error_cuadratico_medio.png)
+
+- Error cuadrático medio 
+
+![](/img/aprendizaje_automatico/error_cuadratico_medio_2.png)
+
+- Raíz del error cuadrático medio : tiene el inconveniente de ser sensible a los valores extremos (outliers).
+
+![](/img/aprendizaje_automatico/rmse.png)
+
+- La varianza del error también se considera importante.
+
+Evidentemente, en todos los casos, cuanto más próximo a cero sea el error, más preciso y efectivo se considera el modelo. 
+
+#### Coeficientes de determinación (R2)
+
+El coeficiente determina la calidad del modelo para replicar los resultados, y la proporción de variación de los resultados que puede explicarse por el modelo.
+
+![](/img/aprendizaje_automatico/r2.png)
+
+Consideraciones sobre R²:
+1. R² no puede determinar si los coeficientes y las predicciones tienen sesgo. 
+2. Cada vez que añadimos un predictor a un modelo, el R² aumenta, aunque sea de forma aleatoria, pero nunca decrece.
+
+Para evitar el efecto del aumento de R² al agregar variables, utilizamos R2 ajustado, una versión que penaliza el resultado con el número de parámetros.
+
+![](/img/aprendizaje_automatico/r2_ajustado.png)
+
+![](/img/aprendizaje_automatico/r2_r2ajustado.png)
+
+### Métricas de efectividad para clasificación
+
+La elección de la métrica vendrá determinada por:
+1. El tipo de predicción: si es una clase o la probabilidad de pertenecer a una clase.
+2. Si se trata de un problema balanceado o no.
+
+#### Matriz de confusión 
+
+![](/img/aprendizaje_automatico/matriz_confusion.png)
+
+Los aciertos se corresponden con las celdas en las que encontramos valores ciertos (ya sean positivos, que están en K, o negativos, que no deben estar en K). Los aciertos se corresponden con la diagonal principal.
+
+Los errores se corresponden con las celdas en las que encontramos valores falsos. Los errores se localizan en la diagonal contraria.
+
+#### Métricas
+
+- Accuracy: Aciertos dividido a la muestra total. La más susceptible a darnos un clasificador erróneo, sobre todo en sets de datos no balanceados.
+
+![](/img/aprendizaje_automatico/accuracy.png)
+
+- Error rate
+
+![](/img/aprendizaje_automatico/error_rate.png)
+
+- Recall (sensitivity): es el número de ejemplos de la clase clasificados correctamente sobre el número total de ejemplos de la clase.
+
+![](/img/aprendizaje_automatico/recall.png)
+
+- Precision: Se corresponde con el número de ejemplos de la clase clasificados correctamente sobre el número total de ejemplos clasificados en esa clase. 
+
+![](/img/aprendizaje_automatico/precision.png)
+
+- Especifidad (Specifity )
+
+![](/img/aprendizaje_automatico/specifity.png)
+
+#### F1-score
+
+Combina la precisión y el recall en una sola métrica para comparar de forma sencilla dos clasificadores por medio de su media harmónica. De esta forma se da más peso a los valores bajos por lo que sólo se conseguirá un F1-score alto si ambas, Precision y Recall, son altas.
+
+![](/img/aprendizaje_automatico/f1.png)
+
+#### Curvas precision-recall
+
+![](/img/aprendizaje_automatico/precision-recal.png)
+
+#### Curvas ROC
+
+La curva ROC (Receiver Operating Characteristic) es otra herramienta típica usada en clasificadores binarios. 
+
+La curva ROC compara el True Positive Rate (Recall) o Sensibilidad  y el False Positive Rate (1- especificidad).
+
+
+Otra forma de comparar clasificadores es comparando el área bajo la curva ROC (Area Under the Curve, AUC). Este parámetro tiene cómo límite superior 1, mientras que un valor de 0.5 corresponde a un clasificador completamente aleatorio.
+
+![](/img/aprendizaje_automatico/auc.png)
+
+![](/img/aprendizaje_automatico/roc.jpg)
+
+![](/img/aprendizaje_automatico/roc_ideal.jpg)
+
+Esta es una situación ideal. Cuando dos curvas no se superponen en absoluto, el modelo tiene una medida ideal de separación. Es perfectamente capaz de distinguir entre clase positiva y clase negativa
+
+![](/img/aprendizaje_automatico/roc_random.jpg)
+
+![](/img/aprendizaje_automatico/roc_curve_interpretabilidad.png)
+
+Esta es la peor situación. Cuando el AUC es aproximadamente 0.5, el modelo no tiene capacidad de discriminación para distinguir entre clase positiva y clase negativa.
+
+![](/img/aprendizaje_automatico/roc_0.jpg)
+
+![](/img/aprendizaje_automatico/roc_curve_interpretabilidad.png)
+
+Cuando AUC es aproximadamente 0, el modelo en realidad está correspondiendo las clases. Significa que el modelo predice la clase negativa como una clase positiva y viceversa.
+
+En casos no balanceados o cuando una clase nos importa más que la otra, la curva PR nos aportará más información que la curva ROC-AUC. 
+
+
+
+
+## 3. Shap Values
+
+### Objetivos
+
+Describir como la técnica de Shap Values actúa como herramienta para conseguir la interpretabilidad de un modelo.
+
+### Shap Values
+
+En muchas ocasiones no podremos entregar un modelo que sea una caja negra, donde no podamos explicar que está pasando realmente.
+
+cuanto mejor sea la interpretabilidad del modelo, mejor adopción tendremos.
+
+Para conseguir esta interpretabilidad de los modelos, podemos utilizar distintas herramientas:
+- Shap Values.
+- Lime.
+- InterpretML.
+- ELI5.
+
+SHAP significa Shapely Additive exPlanations, de este modo, para entender que son los SHAP values tenemos que saber que es un Shapely value.
+
+Lundberg & Lee (2016) propusieron el SHAP value como una aproximación unida para explicar los resultados de cualquier modelo de machine learning, otorgándonos los siguientes beneficios:
+1. Interpretabilidad global. Los valores agregados de SHAP values nos indica cuanto contribuye cada predictor.
+2. Interpretabilidad local. Cada observación tiene su conjunto de SHAP values, lo que nos da transparencia.
+3. Posibilidad de calcular SHAP para cualquier modelo basado en árboles.
+
+Una cosa que podemos hacer con SHAP es obtener el signo del impacto, es decir, saber si las variables tienen un impacto positivo o negativo en el resultado final, vamos a verlo
+
+![](/img/aprendizaje_automatico/shap_values.png)
+
+## Evaluación del aprendizaje no supervisado
+
+### Objetivos 
+
+- Conocer cuáles son los aspectos para evaluar en aprendizaje no supervisado de manera comparada con los del supervisado.
+- Entender en que consiste la evaluación directa versus la indirecta.
+- Comprender las diferencias entre evaluación intrínseca y extrínseca.
+- Ser capaz de entender el significado y mecánica del cálculo de las métricas de efectividad.
+- Saber cómo calcular las medidas más relevantes en Scikit-learn y en Spark.
+
+### Introducción 
+
+En el aprendizaje no supervisado no existe una variable objetivo, es decir, todas las variables del problema se consideran independientes y su finalidad es generar grupos de datos similares entre sí y distantes de los demás grupos.
+
+Los algoritmos de aprendizaje no supervisado se pueden organizar en dos grandes grupos, que son los algoritmos que pretenden agrupar los ejemplos (las filas) y los que pretenden estructurar las variables (las columnas). 
+
+El agrupamiento de ejemplares se suele utilizar: 
+- en el análisis exploratorio de datos, con el objetivo de entender cuáles son los patrones de comportamiento de nuestra colección de datos. 
+- como apoyo a otra tarea, por ejemplo, de aprendizaje supervisado.
+
+El agrupamiento de variables se puede utilizar: 
+- como técnica de reducción de la dimensionalidad del dataset.
+- para obtener una representación que facilite el agrupamiento de ejemplos,
+
+En términos generales se puede decir que la efectividad es menos crítica en el agrupamiento, mientras que la claridad de los grupos generados es un aspecto central. 
+
+
+### Evaluación de la efectividad 
+
+Evaluacíon directa: En la agrupación de filas la tarea es típicamente un fin en sí misma, aunque se pueda utilizar como tarea de apoyo a otras tareas.
+Evaluación indirecta: El agrupamiento de variables están asociado a procesos posteriores de aprendizaje predictivo, en el que interesa medir la efectividad. Por tanto, un algoritmo de agrupamiento de variables es tanto mejor cuanto más efectivo es el aprendizaje posterior.
+
+En lo que se refiere a la evaluación de la efectividad del agrupamiento, típicamente se evalúa de manera directa y cuantitativa la efectividad del agrupamiento de ejemplos, mientras que el de variables se evalúa de manera indirecta.
+
+### Métricas de Evaluación Intrínsecas
+
+La evaluación intrínseca mide la calidad del agrupamiento sin tener como referencia un agrupamiento manual óptimo. La medida intrínseca más habitual es el coeficiente silhouette, que mide la densidad de los grupos y su separación con los grupos cercanos.
+
+### Métricas de Evaluación Extrínsecas
+
+La evaluación extrínseca precisa del conocimiento de una asignación o juicio de pertenencia realizado manualmente por un experto. En la evaluación extrínseca, se utilizan medidas habituales del aprendizaje supervisado como la medida F, pero otras propias del agrupamiento son más comunes.
+
+### Cálculo de métricas
+
+La medida posiblemente más popular es la información mutua ajustada, proveniente de la teoría de la información. Esta medida indica el grado de consenso entre dos asignaciones, la manual y la que se está evaluando, y es simétrica.
+
+
+# Unidad 6. Ética de la Inteligencia Artificial
+
+## 1. Directrices éticas para el desarrollo de modelos de IA
+
+### Objetivos 
+
+- Comprender la necesidad de incorporar un componente ético al desarrollo y uso de modelos de procesamiento automático.
+- Conocer los principios éticos que deben regir a la inteligencia artificial.
+- Conocer los requerimientos a desarrollar en el diseño, implementación y uso de servicios basados en la inteligencia artificial.
+
+### 1. Introducción a la ética en el aprendizaje automático
+
+Además de que sean potentes y escalables, los algoritmos de IA deben ser: 
+
+
+- Transparentes a la inspección. 
+- Predecibles para aquellos a los que gobiernan. 
+- Robustos contra la manipulación. 
+- La persona responsable. 
+
+### 2. Principios éticos en el contexto de sistemas de IA 
+
+
+Los sistemas de IA deben mejorar el bienestar individual y colectivo.
+
+#### 2.1. Principio de respeto de autononía humana
+
+Los derechos fundamentales en los que se basa la UE están orientados a garantizar el respeto de la libertad y la autonomía de los seres humanos. Los seres humanos que interactúan con los sistemas de IA deben poder mantener una autodeterminación plena y efectiva sobre sí mismos, y ser capaces de participar en el proceso democrático.
+
+La asignación de funciones entre los seres humanos y los sistemas de IA debe seguir los principios de diseño centrados en el ser humano y dejar una oportunidad significativa para la elección humana. Esto significa asegurar el control humano sobre los procesos de trabajo en los sistemas de IA.
+
+
+#### 2.2. El principio de prevención de daños
+
+Los sistemas de IA no deben causar ni agravar los daños ni afectar negativamente a los seres humanos. Esto implica la protección de la dignidad humana, así como de la integridad mental y física.
+
+Los sistemas de IA y los entornos en los que operan deben ser seguros y protegidos. Deben ser técnicamente robustos y debe garantizarse que no se presten a un uso malintencionado.
+
+#### 2.3. El principio de equidad
+
+El desarrollo, el despliegue y el uso de los sistemas de IA deben ser justos. La equidad tiene una dimensión sustantiva y otra de procedimiento.
+
+#### 2.4. El principio de explicabilidad
+
+La explicabilidad es crucial para crear y mantener la confianza de los usuarios en los sistemas de IA. Esto significa que los procesos deben ser transparentes, las capacidades y el propósito de los sistemas de IA deben ser comunicados abiertamente y las decisiones, en la medida de lo posible, deben ser explicadas a los afectados directa e indirectamente.
+
+El grado de exigencia de la explicabilidad depende en gran medida del contexto y de la gravedad de las consecuencias si el resultado es erróneo o inexacto.
+
+
+#### 2.5. Equilibrio entre los principios 
+
+Pueden surgir tensiones entre los principios anteriores, para las que no existe una solución fija.
+
+Aunque los principios anteriores ofrecen ciertamente una orientación para las soluciones, siguen siendo prescripciones éticas abstractas. Sin embargo, puede haber situaciones en las que no se puedan identificar compensaciones éticamente aceptables. Algunos derechos fundamentales y principios correlativos son absolutos y no pueden someterse a un ejercicio de equilibrio (por ejemplo, la dignidad humana).
+
+#### 2.6. Requisitos para una IA confiable
+
+Los distintos grupos de partes interesadas tienen diferentes funciones que desempeñar para garantizar el cumplimiento de los requisitos:
+1. Los desarrolladores deben implementar y aplicar los requisitos a los procesos de diseño y desarrollo;
+2. Los implantadores deben garantizar que los sistemas que utilizan y los productos y servicios que ofrecen cumplen los requisitos;
+3. Los usuarios finales y la sociedad en general deben estar informados de estos requisitos y poder exigir su cumplimiento.
+
+## 2. Detección de sesgos
+
+### Objetivos
+
+Los objetivos que se pretenden alcanzar en este recurso son los siguientes:
+- Comprender el concepto de sesgo y equidad, a través de un acercamiento tanto cualitativo como cuantitativo.-  Reconocer algoritmos de detección y eliminación de sesgos.
+
+### 1. Introducción a la detección de sesgos (bias)
+
+El creciente uso de la inteligencia artificial en áreas sensibles, como la contratación, la justicia penal o la atención sanitaria, ha suscitado un debate sobre la parcialidad y la equidad. La toma de decisiones humana en estos y otros ámbitos también puede ser defectuosa y estar condicionada por prejuicios individuales y sociales que a menudo son inconscientes. ¿Serán las decisiones de la IA menos parciales que las humanas? ¿O empeorará la IA estos problemas?
+
+a pesar de los problemas de definición de qué es en realidad el sesgo, muchos expertos tienden a acoger los algoritmos como un antídoto contra los sesgos humanos que siempre han existido. Al mismo tiempo, a muchos les preocupa que los algoritmos puedan incorporar y ampliar los sesgos humanos y sociales
+
+### Sesgo y equidad en la IA
+
+La discriminación es el trato desigual que reciben los individuos de determinados grupos, lo que hace que los miembros de un grupo se vean privados de beneficios u oportunidades. Los grupos más comunes que sufren discriminación son los basados en la edad, el género, el color de la piel, la religión, la raza, la lengua, la cultura, el estado civil o la condición económica.
+
+Dado que los algoritmos de aprendizaje automático se utilizan cada vez más para determinar resultados importantes en el mundo real, como la aprobación de préstamos, las tasas de pago y las decisiones de libertad condicional, corresponde a la comunidad de IA minimizar la discriminación involuntaria. Esta discriminación involuntaria que se produce cuando una decisión tiene resultados muy diferentes para distintos grupos se conoce como impacto dispar (disparate impact).
+
+1. **La adecuación de los datos para representar los diferentes grupos.** Los modelos de generalización a menudo ponderan a la baja los patrones infrecuentes y específicos, lo que puede resultar en un tratamiento injusto de los registros de las minorías. Esta falta de datos no se debe únicamente al tamaño reducido de los grupos minoritarios, sino también a la metodología de recopilación de datos que puede excluir o perjudicar a ciertos grupos, como cuando se recopilan datos solo en un idioma específico.
+2. **El sesgo inherente a los datos.** Aunque la cantidad de datos sea suficiente para representar a cada grupo, los datos de formación pueden reflejar prejuicios existentes (por ejemplo, que las trabajadoras cobren menos), y esto es difícil de eliminar. Esta injusticia histórica en los datos se conoce como legado negativo.
+3. **La adecuación del modelo para describir cada grupo.** La arquitectura del modelo puede describir algunos grupos mejor que otros. Por ejemplo, un modelo lineal puede ser adecuado para un grupo, pero no para otro.
+
+### Definiciones sobre equidad
+
+Se utiliza para referirse a un sesgo injusto, no deseado o indeseable, es decir, a la discriminación sistemática contra determinadas personas o grupos de personas basada en el uso inadecuado de ciertos rasgos o características.
+
+La ausencia de prejuicios no deseados no es suficiente para concluir que un sistema es justo. 
+
+En este caso, un modelo se considera justo si los errores se distribuyen de forma similar entre los grupos protegidos, aunque existen otras muchas formas de definirlo.
+
+La mayoría de las definiciones de equidad se basan en la equidad de grupo, que trata de la equidad estadística en toda la población. Como complemento, está la equidad individual, que establece que los individuos similares deben ser tratados de forma similar, independientemente de su pertenencia al grupo.
+
+- **Paridad demográfica**, o estadística, sugiere que un predictor es insesgado si la predicción 𝑦̂ es independiente del atributo protegido p de modo que: Pr(𝑦̂|𝑝)=Pr (𝑦̂)
+- **igualdadd de probabilidades:** se satisface si la predicción 𝑦̂ es condicionalmente independiente del atributo protegido p, dado el valor verdadero y. Pr(𝑦̂|𝑦,𝑝)=Pr (𝑦̂|𝑦) 
+- **igualdadd de oportunidades.** La igualdadd de oportunidades tiene la misma formulación matemática que la igualdadd de probabilidades, pero se centra en una etiqueta particular y=1:  Pr(𝑦̂|𝑦=1,𝑝)=Pr (𝑦̂|𝑦=1). 
+    - La desviación de la igualdadd de oportunidades se mide por la diferencia de oportunidades:SPD= Pr(𝑦̂=1|𝑦=1,𝑝=1)−Pr (𝑦̂=1|𝑦=1,𝑝=0). 
+
+### Algoritmos de mitigación de sesgo
+
+Es muy difícil eliminar el sesgo una vez que el clasificador ya ha sido entrenado, incluso para casos muy simples.
+
+Existen enfoques para tratar el sesgo en todas las etapas de la recogida de datos, el preprocesamiento y el proceso de entrenamiento. En esta sección se examinan algunos de estos métodos.
+
+![](/img/aprendizaje_automatico/mitigacion_sesgo.png)
+
+####  4.1. Enfoques en el preprocesamiento
+
+Por desgracia, la supresión del atributo protegido y otros elementos que se sospecha que tienen información relacionada rara vez es suficiente. A menudo existen correlaciones sutiles en los datos que permiten reconstruir el atributo protegido.
+
+Por ejemplo, podríamos suprimir la raza, pero si se conserva la información sobre la dirección del sujeto, esta podría estar fuertemente correlacionada con la raza.
+
+
+
+**El grado de dependencia entre los datos x y el atributo protegido p se conoce como prejuicio latente**, y puede medirse mediante la información mutua. A medida que esta medida aumenta, el atributo protegido se vuelve más predecible a partir de los datos.
+
+![](/img/aprendizaje_automatico/prejuicio_latente.png)
+
+
+A continuación, analizaremos cuatro enfoques para eliminar el sesgo mediante la manipulación del conjunto de datos: 
+
+1. **Manipulación de etiquetas**: Modifican las etiquetas y. Se calcula un clasificador en el conjunto de datos original y se encuentran ejemplos cercanos a la superficie de decisión. A continuación, se cambian las etiquetas de forma que sea más probable un resultado positivo para el grupo desfavorecido y se vuelve a entrenar. Se trata de un enfoque heurístico que mejora empíricamente la equidad a costa de la precisión. 
+2. **Manipulación de los datos observados**:  Modifica los datos observados x. Se propone manipular las dimensiones individuales de los datos x de una manera que depende del atributo protegido p. Se alinean las distribuciones acumulativas F0[x] y F1[x] para la característica x cuando el atributo protegido p es 0 y 1 respectivamente a una distribución acumulativa mediana Fm[x]. También se denomina eliminación del impacto dispar.
+3. **Manipulación de etiquetas y datos.** Se aplica una transformación aleatoria Pr(x′,y′|x,y,p) que transforma los pares de datos {x,y} en nuevos valores de datos {x′,y′} de una manera que depende explícitamente del atributo protegido p. A diferencia de la eliminación de impactos dispares, esto tiene en cuenta las interacciones entre todas las dimensiones de los datos. La transformación aleatoria, que también debe aplicarse a los datos de prueba, también viola la equidad individual.
+4. **Reponderación de los pares de datos.** Se propone reponderar las tuplas {x,y} en el conjunto de datos de entrenamiento para que los casos en los que el atributo protegido p predice que el grupo desfavorecido obtendrá un resultado positivo, tengan una mayor ponderación.
+
+#### 4.2. Enfoques durante el entrenamiento
+
+Se puede utilizar el prejuicio indirecto, donde podemos medir la dependencia entre las etiquetas y, así como el atributo protegido p:
+
+![](/img/aprendizaje_automatico/enfoque_entrenamiento.png)
+
+Si no hay forma de predecir las etiquetas a partir del atributo protegido y viceversa, entonces no hay posibilidad de sesgo.
+
+**Adversarial de-biasing:** reduce la evidencia de los atributos protegidos en las predicciones, tratando de engañar simultáneamente a un segundo clasificador que intenta adivinar el atributo protegido p.
+
+![](/img/aprendizaje_automatico/ADVERSARIAL_DEBIASING.png)
+
+**Eliminación de prejuicios mediante la regularización:** aplicados a casos de regresión logística, se propone añadir una condición de regularización extra a la salida del clasificador que intenta minimizar la información mutua entre el atributo protegido y la predicción 𝑦̂.
+
+## 3. Ejemplos de dilemas éticos
+
+### Objetivos
+
+- Analizar cómo van a evolucionar algunos sectores productivos gracias a la aplicación de técnicas de inteligencia artificial.
+- Comprobar cómo la evolución de los sectores puede provocar dilemas éticos que no se habían tenido en consideración hasta ahora.
+
+### Problemas de sesgo en el reconocimiento facial
+
+En 2018, investigadores del MIT y Microsoft revelaron que los algoritmos de clasificación de género presentaban tasas de error significativamente diferentes según la etnia y el género. Los algoritmos tenían una precisión del 1% para los hombres blancos, pero un 35% de error para las mujeres de piel oscura. Una investigación más exhaustiva en 2019 confirmó que la mayoría de los algoritmos mostraban disparidades demográficas en las tasas de falsos positivos y negativos. Se descubrió que los factores demográficos tenían un mayor impacto en las tasas de falsos positivos, lo cual es preocupante ya que aumenta el riesgo de identificar erróneamente a alguien. Además, se encontró que los asiáticos, afroamericanos e indios americanos tenían tasas de error más altas que los individuos blancos, y las mujeres tenían tasas más altas que los hombres. Para reducir el sesgo, la selección de datos de entrenamiento utilizados para construir modelos algorítmicos resulta crucial. La UE ha propuesto regulaciones que exigen conjuntos de datos de entrenamiento amplios y representativos. Sin embargo, el sesgo también puede manifestarse en las listas de vigilancia utilizadas en comparación con los sistemas de reconocimiento facial. Es importante cambiar la conversación sobre los riesgos del reconocimiento facial, ya que los mayores riesgos provienen de un funcionamiento preciso de la tecnología. A medida que se mejora la tecnología y los datos de entrenamiento, se eliminarán gradualmente los sesgos existentes, pero también surgirán nuevas preocupaciones. La gobernanza y gestión de la tecnología serán fundamentales para abordar estos desafíos en el reconocimiento facial.
+
+### Vehículo autónomo 
+
+Los vehículos autónomos tienen el potencial de revolucionar el transporte al reducir los accidentes de tráfico y ofrecer beneficios como ahorro de vidas, reducción de daños y mayor productividad. Sin embargo, surgen preocupaciones en áreas como la recopilación y el uso de datos, el impacto en el empleo y los desafíos éticos y de responsabilidad.
+
+En términos de datos, los sensores utilizados por los vehículos autónomos pueden recopilar información personal sin consentimiento y no hay regulaciones claras sobre su recopilación, almacenamiento y acceso. Esto plantea preocupaciones sobre el uso indebido de los datos y las implicaciones en la toma de decisiones de los sistemas autónomos.
+
+En cuanto al empleo, si los vehículos autónomos reemplazan a los conductores, se podrían perder muchos puestos de trabajo en ese campo. También se podrían ver afectados otros sectores, como seguros y reparaciones de colisiones, lo que podría generar desafíos económicos y de transición laboral.
+
+En términos éticos y de responsabilidad, los vehículos autónomos plantean dilemas similares al "problema del tranvía", donde se debe tomar una decisión moral en situaciones de riesgo. Además, surgen preguntas sobre quién es legalmente responsable en caso de accidentes y cómo se deben establecer las normas éticas y legales para la interacción entre humanos y máquinas inteligentes.
+
+Para abordar estos desafíos, se requiere la implementación de regulaciones actualizadas que prioricen la ética en el diseño y la adopción de los vehículos autónomos. También se necesita transparencia en los algoritmos y datos utilizados por estos sistemas para fomentar la confianza y la rendición de cuentas.
+
+### eHealth 
+
+Gracias a su capacidad para extraer conocimientos y aprender de grandes conjuntos de datos clínicos, la IA puede desempeñar un papel en el diagnóstico, la toma de decisiones y la medicina personalizada. Al mismo tiempo, crea un conjunto novedoso de desafíos éticos que deben ser identificados y mitigados.
+
+### Automatización de trabajo 
+
+La implantación de la inteligencia artificial (IA) en los procesos de producción plantea una amenaza para numerosos puestos de trabajo, ya que los robots inteligentes y los programas informáticos son más eficientes, cometen menos errores y son más baratos que los humanos. La IA puede adaptarse a nuevas condiciones y no requiere intervención humana en muchos casos. Sin embargo, los economistas argumentan que el progreso tecnológico no conduce necesariamente al desempleo masivo. A lo largo de la historia, la innovación de procesos y la innovación de productos han ido de la mano, creando nuevos puestos de trabajo en sectores emergentes. Este proceso de desarrollo es la causa del crecimiento económico a largo plazo. No obstante, el progreso tecnológico también implica el desempleo estructural, donde las personas desplazadas por las máquinas deben buscar empleo en otros sectores y adquirir nuevas habilidades. Los escenarios pesimistas predicen que la creación de empleo no podrá seguir el ritmo de los avances tecnológicos de la IA, lo que podría dar lugar a un desempleo tecnológico masivo. La automatización acelerada podría superar la capacidad de adaptación de los mercados laborales, generando un impacto distinto en comparación con revoluciones económicas anteriores.
+

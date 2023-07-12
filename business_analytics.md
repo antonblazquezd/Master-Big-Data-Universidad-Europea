@@ -1,17 +1,34 @@
 # Business Analytics
 
 
+
+
 ## Contenido del Curso 
 
-- 30 de Marzo: Jordi Malo (TIC)
-- 13 de Abril: Daniel Domínguez (geolocalización)
-- 20 de Abril: Marta Abanades (sábado) (RRHH)
-- 27 de Abril: Mónica Tévar (Gestión de clientes - CRM)
-- 3 de Mayo: Hugo Tamashiro (Marketing)
--  11 de Mayo: Elena Igualada (Finanzas)
 
+- ![Objetivos del curso](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/business_analytics.md#objetivos-del-curso)
+- ![30 de Marzo: Jordi Malo - IoT y Edge Computing ](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/business_analytics.md#3003---jordi-malo---iot-y-edge-computing)
+- ![13 de Abril: Daniel Domínguez - Ciencia de Datos Espaciales ](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/business_analytics.md#13-de-abril-daniel-dom%C3%ADnguez-ciencia-de-datos-espaciales)
+- [20 de Abril: Marta Abanades - RRHH](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/business_analytics.md#4-rrhh---marta-abanades-20-de-abril)
+- ![27 de Abril: Mónica Tévar - Gestión de clientes, CRM)](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/business_analytics.md#27-de-abril-m%C3%B3nica-t%C3%A9var-gesti%C3%B3n-de-clientes---crm)
+- ![3 de Mayo: Hugo Tamashiro - Marketing](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/business_analytics.md#5-marketing---hugo-tamashiro-comesa%C3%B1a)
+- ![11 de Mayo: Elena Igualada - Modelización financiera](https://github.com/cestebann/Master-Big-Data-Universidad-Europea/blob/master/business_analytics.md#modelizaci%C3%B3n-financiera---elena-igualada-1105)
 
-# 30.03 - Jordi Malo (TIC)
+  
+
+# Objetivos del curso 
+
+## Objetivos específicos
+- CE4. Diseñar y ejecutar un proceso completo de descubrimiento de conocimiento, incluyendo las
+fases de almacenamiento, procesamiento y visualización de los datos.
+- CE9. Evaluar las posibilidades de la gestión masiva de datos y la inteligencia artificial en el
+desarrollo del negocio en los diferentes sectores de aplicación (banca, salud, comunicaciones,
+gobierno, etc.).
+## Resultados de aprendizaje:
+- RA3: Desarrollar modelos de uso y aplicación de analítica de negocio en diferentes sectores de la
+industria
+
+# 30.03 - Jordi Malo - IoT y Edge Computing
 
 ![](/img/business_analytics/jordi_malo.png)
 
@@ -32,9 +49,16 @@
 
 ![](/img/business_analytics/jordi_malo_5.png)
 
+![](/img/business_analytics/jordi_30.png)
+
+![](/img/business_analytics/jordi_31.png)
+
+![](/img/business_analytics/jordi_32.png)
+
+
 ## IoT 
 
-Distingamos máquina e IoT. IoT describ elos objetos físicos como sensores, capacidad de procesamiento, software y otras tecnologías que se conectan e interconectan e intercambian datos con otros dispositivos y sistemas a través de internet u otras reded de comunicaciones. En pocas palabras, un dispositivo es considerado IoT si se puede conectar a la red. 
+Distingamos máquina e IoT. IoT describe los objetos físicos como sensores, capacidad de procesamiento, software y otras tecnologías que se conectan e interconectan e intercambian datos con otros dispositivos y sistemas a través de internet u otras redes de comunicaciones. En pocas palabras, un dispositivo es considerado IoT si se puede conectar a la red. 
 
 ### Aplicaciones
 
@@ -48,7 +72,7 @@ Distingamos máquina e IoT. IoT describ elos objetos físicos como sensores, cap
     - Incendios
     - Transporte/ Smart Cars
     - Transporte inteligente
-    - Ciudades ingeligentes
+    - Ciudades inteligentes
     - Nivel de vida
     - Redes sociales
     - Entrenimiento 
@@ -94,13 +118,26 @@ Distingamos máquina e IoT. IoT describ elos objetos físicos como sensores, cap
 
 ![](/img/business_analytics/jordi_malo_18.png)
 
+![](/img/business_analytics/jordi_33.png)
+
 ![](/img/business_analytics/jordi_malo_19.png)
+
+## Cloud y sostenibilidad
+
+![](/img/business_analytics/jordi_34.png)
+
+![](/img/business_analytics/jordi_35.png)
+
+![](/img/business_analytics/jordi_36.png)
+
 
 ![](/img/business_analytics/jordi_malo_20.png)
 
 ![](/img/business_analytics/jordi_malo_21.png)
 
 ## Seguridad
+
+![](/img/business_analytics/jordi_37.png)
 
 ![](/img/business_analytics/jordi_malo_22.png)
 
@@ -118,16 +155,16 @@ Distingamos máquina e IoT. IoT describ elos objetos físicos como sensores, cap
 
 ![](/img/business_analytics/jordi_malo_29.png)
 
+![](/img/business_analytics/jordi_38.png)
+
+
+![](/img/business_analytics/jordi_39.png)
+
 ![](/img/business_analytics/jordi_malo_30.png)
 
 #  13 de Abril: Daniel Domínguez: Ciencia de datos espaciales
 
 ## Contenido
-
-- Presentación
-    - Sobre mí
-    - Sobre Geoblink
-- Introducción a "Location Intelligence"
 
 
 ![](/img/business_analytics/contenido_daniel.png)
@@ -204,7 +241,7 @@ geopandas.spatialjoin
 
 ![](/img/business_analytics/crm_2.png)
 
-CRM es el arcónimo de Customer Relationship Management, es una estrategia de de gestión de todas las relaciones e interacciones de tu compañía con tus clientes potenciales y clientes actuales. 
+CRM es el arcónimo de Customer Relationship Management, es una estrategia de gestión de todas las relaciones e interacciones de tu compañía con tus clientes potenciales y clientes actuales. 
 
 Aúna un cambio de filosofía empresarial que sitúa al cliente en el centro y una parte fundamental de esta idea es la recopilación de la información sobre el mismo para adecuar la oferta de valor. 
 
@@ -217,8 +254,6 @@ El CRM es una estrategia que necesita de la tecnología para poder llevarse a ca
 Por otro lado, utilizar un buen software de CRM puede ayudarte a obtener el éxito, pero no lo conseguirá solo. Un programa de CRM solo se convertirá en una herramienta útil si la acompañas de una estrategia e implementación adecuada. 
 
 > CRM es un modelo estratégico que pone al cliente en el centro de interés. CRM es también un software que nos permite llevar a cabo de forma eficiente la gestión de este modelo estratégico. 
-
-![](/img/business_analytics/crm_2.png)
 
 ![](/img/business_analytics/crm_3.png)
 
@@ -313,6 +348,125 @@ Posiblemente, al levantar un caso, identifique previamente las causas del númer
 TMO 
 Tiempo medio de las llamadas
 Desbordamiento
+
+# 4. RRHH - Marta Abanades (20 de abril)
+
+## Introducción en la transformación digital en el área de RR.HH.
+
+### Objetivos 
+
+- Entender la evolución hacia la tecnología digital y su aporte en el plano empresarial.
+-  Conocer el concepto y la gestión de los departamentos de recursos humanos.
+- Identificar las macrofunciones de los departamentos de recursos humanos.
+- Conocer los inicios del big data dentro de las empresas.
+
+### La globalización 
+
+¿Es fundamental la buena gestión de los recursos humanos para el éxito de las fundamentaciones? Indudablemente, sí.
+
+### Gestión de los RRHH
+
+El departamento de RRHH ha pasado de gestionar registros, pasando por los empleados y la preocupación por el bienestar de estos, hasta la completa gestión de los recursos humanos.
+
+
+#### Concepto de RRHH 
+
+Es el conjunto de actuaciones y técnicas que intentan establecer una fórmula planificada, práctica y evaluable para desarrollar y seleccionar las posibilidades de los trabajadores dentro de la empresa.
+
+### Objetivos de la gestión de los recursos humanos
+
+La función general sería el estudio y el desarrollo de métodos y técnicas que puedan favorecer la integración eficaz de los empleados en el seno de la empresa.
+
+La eficacia en la gestión de los recursos humanos es conseguir unos recursos humanos eficientes dentro de la empresa mediante el reclutamiento, la selección y la contratación adecuados para que una vez se encuentren en la organización centrarse en la:
+
+- Motivación 
+- Comunicación 
+- Liderazgo 
+- Integración de las personas a la empresa
+
+### Herramientas de gestión de los recursos humanos
+
+A continuación, detallamos cuáles se podrían externalizar y cuáles deberían gestionarse internamente:
+- El análisis y la descripción de puestos de trabajo.
+- La evaluación de puestos de trabajo y desempeño.
+- La capacitación y el desarrollo.
+- El plan de carreras profesionales.
+- La planificación de beneficios sociales.
+- Mejoras en la política salarial.
+- La estrategia retributiva de la organización.
+- La seguridad e higiene en el trabajo.
+
+A continuación, pasamos a detallar algunas que, aun siendo propiamente del departamento de recursos humanos, se podrían externalizar:
+- Los procesos de reclutamiento y selección.
+- La investigación de salarios y beneficios.
+- La investigación de mercados de recursos humanos.
+- Las relaciones con instituciones de formación profesional.
+- La legislación laboral.
+
+### Macrofunciones de los departamentos de recursos humanos
+
+Para finalizar y entender el escenario de la gestión de los recursos humanos vamos a describir cada una de las macrofunciones que realizan estos departamentos:
+-  Adscripción de los recursos humanos.
+- Organización de los recursos humanos.
+- Gestión de los recursos humanos.
+- Desarrollo de los recursos humanos.
+- Relaciones laborales.
+
+###  Big Data
+
+La importancia no se encuentra en la cantidad de los datos que tenga la empresa, sino en el análisis de estos para poder tomar mejores decisiones y acciones estratégicas de negocio. Por el momento, el concepto de big data no lo encontramos en la RAE, aunque en uno de sus tuits confirma que la equivalencia más acertada sería “macrodatos”.
+
+Poder analizar los datos en las organizaciones permite entender mucho mejor a los trabajadores, descubrir aspectos de compensación, encontrar brechas salariales, mejorar el desempeño, analizar las características e incluso conocer qué riesgos tiene la organización si se encuentran desmotivados.
+
+Los datos permiten dar un paso hacia adelante en los procesos de selección para intentar descartar las primeras impresiones, los currículos mal expresados o redactados. 
+
+Cuando se analizan los datos de una plantilla de trabajadores, una empresa puede obtener la siguiente información:
+- Analítica del talento. 
+. Estrategia de retención de capital humano: Lo     s responsables de los departamentos de recursos humanos pueden obtener un escenario sobre las personas que se marchan y si esto se repite en otras que buscan empleo en otras empresas.
+- Realizar procesos de contratación de manera inteligente: Cuando las organizaciones buscan nuevos empleados, puede verificar los datos para revisar redes sociales y encontrar a personas que más se ajusten al perfil deseado para ocupar el puesto a cubrir. 
+    - Con el fenómeno del big data son las organizaciones mediante los nethunters los que buscan perfiles más cualificados en las redes sociales.
+    - Nethunter es un nuevo concepto para definir a aquella persona encargada de seleccionar posibles candidatos. Para realizar esto va a rastrear en Google, en los perfiles que tiene en las redes sociales, buscara imágenes de esos candidatos, conversaciones en las redes y sus posibles relaciones.
+    - Este novedoso concepto se centra en poder encontrar talentos mediante la web 2.0 y concretamente en las redes sociales. Son capaces de seguir la huella digital que vamos dejando y analizan todas las redes sociales que tiene el candidato, las fotografías que publica, etc. También valora la comunidad online de esa persona, su posible capacidad para relacionarse con otras personas de su sector profesional, su proactividad y la calidad de los contenidos que emite y publica.
+
+- Encontrar a la persona adecuada en el momento adecuado: el fenómeno del big data ha sido un valor añadido para poder encontrar a las personas adecuadas para trabajos específicos. La organización puede enfocarse en aspectos más importantes en el momento de poder realizar una contratación.
+
+- Intentar medir de manera eficaz el desempeño: es otra de las incertidumbres que tienen las empresas, el saber medir el desempeño de sus trabajadores. Los datos nos pueden ofrecer posibilidades como:
+    -  Saber qué trabajadores son más productivos y en qué turnos.
+    -  Qué trabajadores tienen un alto rendimiento y así poder aplicar políticas de recompensa.
+    - Mejorar la formación de los trabajadores y garantizar que lo aplican en su trabajo. La utilización de los datos para la empresa no deja de ser una inversión de dinero, pero a medio y largo plazo puede suponen un ahorro
+- La transformación digital en las empresas: el saber analizar los datos es otra manera de saber aprovechar el potencial que tiene la organización.
+
+## La funcionalidad de los RR. HH. en la transformación digital de la empresa
+
+### Objetivos
+
+- Entender el concepto de people analytics.
+- Conocer las ventajas y desventajas del big data.
+- Identificar propuestas para trabajar el big data dentro de los departamentos de recursos humanos.
+
+### People Analytics
+
+El término más conocido que relaciona la analítica de las personas a través de los datos es el people analytics, ya que capacita a los departamentos de recursos humanos para tomar decisiones permitiéndoles asesorar a las empresas de consecuencias mediante la información obtenida de los datos. 
+
+### Ventajas y desventajas del big data
+
+Obtener grandes cantidades de información será una ventaja competitiva de tanto en cuanto esté sostenida por una infraestructura de recursos humanos capacitados y calificados para aprovechar al máximo los beneficios, de ahí la marcada demanda de profesionales del big data en el mercado laboral. 
+
+#### Ventajas
+
+- Mejora de la toma de decisiones.
+- Conocimiento del mercado.
+- Tener un feedback en tiempo real: Con esta tecnología tan ágil se obtiene información en tiempo real que a las empresas les puede servir para lanzamiento de productos, o como resultado de alguna estrategia.
+- La tecnología del presente y del futuro: el trabajar con la ciencia de los datos ya es un elemento diferenciador y de éxito dentro de las organizaciones y llega para quedarse. 
+
+#### Desventajas
+
+- El exceso de los datos: si se almacenan y analizan de manera indiscriminada solo se convertirán en ruido y ralentizarán y obstaculizarán aún más las tareas, o si no tenemos la rapidez suficiente para procesarlos, analizarlos y tomar decisiones antes de que se vuelvan arcaicos, no aprovecharemos al máximo sus beneficios. El papel de estos profesionales será tener la capacidad seleccionar y priorizar los datos y patrones que serán de utilidad, antes de que se vuelvan obsoletos. 
+- Ciberseguridad: el mayor reto para las organizaciones es proteger sus datos, la vulnerabilidad de la enorme cantidad de datos que tienen las empresas es el objetivo para los ciberataques.
+- Políticas de protección de datos: debido a lo comentado con anterioridad, se hace necesario más consenso y protocolos que puedan definir hasta qué punto la tecnología podría considerarse intrusiva y cómo poder protegerla.
+- Tecnofobia: en la sociedad actual podemos encontrar reacciones desfavorables por parte de los usuarios que pueden considerar que se vulnera su privacidad.
+
+
 
 # 5. Marketing - Hugo Tamashiro Comesaña
 
@@ -433,9 +587,9 @@ Entrega de tarea - 24/05
 
 ## Modelos de riesgos en entidades financieras
 
-Los modelos de riesgo se pueden desarrollar dentro de la propia área de riesgos o bien en un área específica de Analítica Avanzada que también desarrolle modelos de reisgos. 
+Los modelos de riesgo se pueden desarrollar dentro de la propia área de riesgos o bien en un área específica de Analítica Avanzada que también desarrolle modelos de riesgos. 
 
-Los objetivos principales a conseguir con los diferenes modelos de riesgos que veremos son: 
+Los objetivos principales a conseguir con los diferentes modelos de riesgos que veremos son: 
 - Mejorar la concesión de operaciones crediticias. 
 - Tener **alertas de deterioro de la calidad crediticia** de los clientes. 
 - **Anticiparnos al incumplimiento** de obligaciones de pago de nuestros clientes. 
@@ -445,54 +599,55 @@ Los objetivos principales a conseguir con los diferenes modelos de riesgos que v
 Teniendo en cuenta estos objetivos, a grandes rasgos, tenemos estos **tipos de modelos:**
 
 - Modelos de **concesión de operaciones crediticias**. 
-- Modelos de **alerta temprana de imapago**, con los que tener aleras de deteiroro de la calidad crediticia de los clientes. 
+- Modelos de **alerta temprana de impago**, con los que tener aleras de deterioro de la calidad crediticia de los clientes. 
 - Modelos de probabilidad **de recobro** de clientes con impagos. 
 
 Los dos primeros bloques de modelos se tratan de modelos regulatorios, o modelos bajo la regulación y la supervisión de la EBA. 
 
-Los modelos de recobro, sin embargo, no se encuentran bajo esta regulación, por lo que no tienen que seguir las directrices marcas por el regulador y se pueden desarrollar como cualquier otro modelo predictivo de la entidad. 
+Los modelos de recobro, sin embargo, no se encuentran bajo esta regulación, por lo que no tienen que seguir las directrices marcadas por el regulador y se pueden desarrollar como cualquier otro modelo predictivo de la entidad. 
 
 ## Autoridad Bancaria Europea
 
-Es la agencia de la UE responsable de construir un cojunto de normas cuyo objeto es regular y supervisar el sector bancario en los países de la zona euro. 
+Es la agencia de la UE responsable de construir un conjunto de normas cuyo objeto es regular y supervisar el sector bancario en los países de la zona euro. 
 
-Sus directrices especifican mecanismos y requisitos sobre los reisgos de crédito que han de seguir las entidades financieras a la hora de facilitar y hacer seguimiento de sus operaciones crediticias, **buscando siempre elevar la calidad crediticia y la protección al cosnumidor**. 
+Sus directrices especifican mecanismos y requisitos sobre los riesgos de crédito que han de seguir las entidades financieras a la hora de facilitar y hacer seguimiento de sus operaciones crediticias, **buscando siempre elevar la calidad crediticia y la protección al consumidor**. 
 
 La EBA **interviene y regula desde el momento inicial**, es decir, qué datos han de ser validados, cómo han de ser tratados hasta la concesión y el seguimiento de las operaciones crediticias, por parte de las entidades financieras, tanto las operaciones "sanas" como las operaciones dudosas. 
 
 A través de sus directrices regula **TODO el proceso de concesión de operaciones de crédito**. La calidad del dato es uno de los elementos fundamentales y supervisados: ha de ser fiable, suficiente, preciso y actualizable, puesto que es el elemento base que garantizará el resultado final del proceso de concesión y seguimiento de operaciones financieras. 
 
 Las **fuentes de datos** utilizadas para estos fines deben estar **GOBERNADAS**. 
-- El Gobierno del Dato implica: 
+
+El Gobierno del Dato implica: 
 - Una estructura organizativa para **dar soporte a la gestión de los datos** de la empresa. 
-- Formado por un **conjunto de normas, políticas y procesos** de una organización que permitan asegurar que los datos de la organziación sean correctos, tengan calidad, sean seguros, fiables y útiles. 
-Es la parte más estratégica y de planificación y control a alto nivel para cosneugir crear valor para el negociio a partir de los datos. 
+- Formado por un **conjunto de normas, políticas y procesos** de una organización que permitan asegurar que los datos de la organización sean correctos, tengan calidad, sean seguros, fiables y útiles. 
+Es la parte más estratégica y de planificación y control a alto nivel para conseguir crear valor para el negocio a partir de los datos. 
 
-La información de datos necesaria para la evaluación de solvencias crediticias está amparada bajo lara Directiva 2008/48, la Directiva 2014/17/UE y el Reglamento (UE) 2015/679. Tiene como objetivo homogeneizar un mercado justo y transparente para los clientes y usuarios de servicios financieros. Beneficiando a la economía, las instituciones, las empresas y consumidores. 
+La información de datos necesaria para la evaluación de solvencias crediticias está amparada bajo la Directiva 2008/48, la Directiva 2014/17/UE y el Reglamento (UE) 2015/679. Tiene como objetivo homogeneizar un mercado justo y transparente para los clientes y usuarios de servicios financieros. Beneficiando a la economía, las instituciones, las empresas y consumidores. 
 
 
-### Directrices sobre concesiones y seguimiento d epréstamos (EBA/GL/2020/06)
+### Directrices sobre concesiones y seguimiento de préstamos (EBA/GL/2020/06)
 
-Dentro de las dierectirces inofmradas por la EBA, se establece la necesidad de establecer un Gobierno interno, el cual será el resposnable de aplicar una **cultura de reisgos en la entidad** fincanciera. 
+Dentro de las directrices informadas por la EBA, se establece la necesidad de establecer un Gobierno interno, el cual será el responsable de aplicar una **cultura de riesgos en la entidad** fincanciera. 
 Ha de velar por la aplicación de medidas y normativas internas necesarias para regular la concesión y el seguimiento de préstamos. 
 
 Entre sus decisiones y funciones más importantes, destaca: 
 - Establecer el Apetito de Riesgo de Crédito. 
-- Controlar y evaluar el buen funcionamiento de las políticas interas
-- Seleccionar a presonas con la formación encesaria en riesgos. 
+- Controlar y evaluar el buen funcionamiento de las políticas internas
+- Seleccionar a presonas con la formación necesaria en riesgos. 
 - Delimitar y vigilar la diversifiación de la cartera de riesgos de la compañía, que evite la concentración excesiva en determinados de productos de riesgo. 
 
 ### Aplicación de directrices por uso de herramietnas tecnológicas en la concesión de préstamos 
 
-La utlización demodelos automáticos implica tener conocimiento de las mteodologías aplicadas. En caso de ser necesario, se habilitan los sistemas necesarios para realizar forzajes. 
+La utlización de modelos automáticos implica tener conocimiento de las metodologías aplicadas. En caso de ser necesario, se habilitan los sistemas necesarios para realizar forzajes. 
 
 
 ## Modelos de alerta Temprana de Impago 
 
 **Directrices sobre concesión y seguimiento de préstamos** (EBA/GL/2020/06):
-"Diseñar, definir y realziar el seguimiento y la comunicación del riesgo de crédito, incluyendo sistemas de alerta temprana, elseguimiento de riesgo agregado y de la cartera de créditos, incluido en relación con el ICAAP y con cualquier indicador regulatorio aplicable, como las normas relativas a grandes exposiciones". 
+"Diseñar, definir y realziar el seguimiento y la comunicación del riesgo de crédito, incluyendo sistemas de alerta temprana, el seguimiento de riesgo agregado y de la cartera de créditos, incluido en relación con el ICAAP y con cualquier indicador regulatorio aplicable, como las normas relativas a grandes exposiciones". 
 
-Las entidades financieras han de anticiparse al incumplimiento de obligaciones de pagoo de sus clientes, y por tanto, prevenir un empeoramiento de la calidad crediticia de su cartera de riesgos. 
+Las entidades financieras han de anticiparse al incumplimiento de obligaciones de pago de sus clientes, y por tanto, prevenir un empeoramiento de la calidad crediticia de su cartera de riesgos. 
 
 Para ello, han de realizar una evaluación y seguimiento del comportamiento de pago de sus clientes: evaluar su capacidad de pago actualizando los datos financiero que se evalúan en el proceso de concesión de la operación, como: 
 - Nóminas, IRPF, etc... para personas físicas. 
@@ -500,13 +655,13 @@ Para ello, han de realizar una evaluación y seguimiento del comportamiento de p
 Alertas por aparición en ficheros de insolvencia, RAI, ASNEF, EXPERIAN. 
 - Ratio de servicio de cobertura de la deuda mediante el seguimiento del comportamiento crediticio en otras entidades, CIRBE (es un registro de los préstamos que tiene una empresa en otras entidades). 
 
-A través del seguimiento de los datos indicados, las entidades financieras han de establecer un sistema que alerte de la previsible incapcvidad de pago de los clientes, para lo cual han de proponer medidas que favorezcan el pago, como pueden ser ampliación de plazos, carencias, etc... 
+A través del seguimiento de los datos indicados, las entidades financieras han de establecer un sistema que alerte de la previsible incapacidad de pago de los clientes, para lo cual han de proponer medidas que favorezcan el pago, como pueden ser ampliación de plazos, carencias, etc... 
 
 Estos seguimietnos pueden ser a nivel por segmentos de clientes, por tipologías de productos o por carteras de riesgos. 
 
-También se pueden establecer indiciadores de alertas basados en datos macroeconómicos, como pueden ser niveles de desempleo nacionales, IPC; hechos o acontecimientos extraordinarios, pudiéndose segmentar en caso de ser necesario según criterios de geolocalización. 
+También se pueden establecer indicadores de alertas basados en datos macroeconómicos, como pueden ser niveles de desempleo nacionales, IPC; hechos o acontecimientos extraordinarios, pudiéndose segmentar en caso de ser necesario según criterios de geolocalización. 
 
-### Cómo detectan las entidades financieras estos reigos?
+### Cómo detectan las entidades financieras estos riesgos?
 
 - Scoring: personas físicas
 - Rating: personas jurídicas
@@ -518,7 +673,7 @@ También se pueden establecer indiciadores de alertas basados en datos macroecon
 
 ![](/img/business_analytics/scoring.png)
 
-Este punto de impago considerado como umbral, puede variasr en función de cada entidad modelo predictivo utilizado, en base a: 
+Este punto de impago considerado como umbral, puede variar en función de cada entidad modelo predictivo utilizado, en base a: 
 - Puntuación 
 - Apetito de riesgo. Las entidades financieras establecen un objetivo de financiación total, segmentado por segmento de clientes
 - Tolerancia al riesgo. 
@@ -532,7 +687,7 @@ No es lo mismo que las calificaciones que hace Moody's, S&P, etc.
 ### Diferencias entre los modelos de Scoring y Rating
 
 - Comportamiento estadístico histórico diferente. 
-- Productos específicos y funcimiento diferente: 
+- Productos específicos y funcionamiento diferente: 
     - Hipotecas particulares, plazo de concesión y LTV mayores: 
         - Hasta 30 años y porcentaje de financiación en torno al 80% tolerancia al riesgo. 
     - Hipotecas para personas jurídicas
@@ -546,9 +701,9 @@ En ambos se pueden realizar dos tipos de modelos, es decir, un modelo basado en 
 
 - **Modelos basados en la anticipación**: evalúan la probabilidad de impago de los clientes antes de presentar una operación; es decir, se realiza una preclasificación de un cliente en función de la información que contiene la entidad basada en su funcionamiento. 
 
-En caso de personas jurídicas no clientes, se puede realizar la preclasificacion del cliente basada en info externa. Las empresas están obligadas a presentar cuentas en registro (balances), las cuales pueden consultarse libremente.  En este caso, hay empresa que dedicas a recopilar esta información 
+En caso de personas jurídicas no clientes, se puede realizar la preclasificacion del cliente basada en info externa. Las empresas están obligadas a presentar cuentas en registro (balances), las cuales pueden consultarse libremente.  En este caso, hay empresas que se dedican a recopilar esta información. 
 
-- **Modelos reactivos**:  son los modelos encargados de evalaur la probabilidad del impago con base en la solicitud de una 
+- **Modelos reactivos**:  son los modelos encargados de evaluar la probabilidad del impago con base en la solicitud de una 
 ## Pricing
 
 Esta puntuación obtenida también es importante a la hora de establecer un criterio de precios en el momento de concesión de operaciones crediticias. Este proceso se llama pricing:
@@ -565,12 +720,13 @@ Para obtener ÉXITO en un modelo predictivo es de vital importancia tener unos d
 
 Vamos a suponer que vamos a usar un modelo de regresión logística de preconcesión dirigido a clientes personas físicas. Los datos que seleccionaríamos son: 
 
-- La lógica y nuestra experiencia nos llevaría a solicitar a informática los sigiente datos de los clientes: 
+- La lógica y nuestra experiencia nos llevaría a solicitar a informática los siguientes datos de los clientes: 
     - Ingresos de haberes. 
     - Uso y tenencia anterior de tarjetas de crédito 
     - Gastos mensuales. 
 
-Entre otros estos serían los datos que la EBA nos indica que hay que solicitar dentro de sus directrices: préstamos a consumidores. 
+Entre otros estos serían los datos que la EBA nos indica que hay que solicitar dentro de sus directrices: 
+- préstamos a consumidores. 
 - Evidencia de la ID. 
 - Acreditación de la residencia. 
 - Información sobre la finalidad del préstamo. 
@@ -591,9 +747,9 @@ Hay que tener en cuenta una serie de reglas y requisitos publicadas por los dife
 
 ## Ciclo de vida de un proyecto de Modelización 
 
-![](/img/business_analytics/ciclo_vida.png|)
+![](/img/business_analytics/ciclo_vida.png)
 
-![](/img/business_analytics/ciclo_vida_2.png|)
+![](/img/business_analytics/ciclo_vida_2.png)
 
 ## Caso práctica 
 

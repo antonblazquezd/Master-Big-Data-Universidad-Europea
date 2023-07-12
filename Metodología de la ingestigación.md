@@ -162,3 +162,54 @@ Estos aspectos pueden ir experimentando modificaciones a lo largo de toda la red
 - Ortografía y puntuación 
 - Registro sitemático y apropiado de la bibliografía
 
+# Tercera clase - 29/05
+
+## Repaso 
+
+- ¿La investigación genera siempre nuevo conocimiento? 
+Sí. 
+- ¿Cuál de las siguientes etapas no es imprescindible? 
+La hipótesis. En el enfoque cuantitativo se parte de una hipótesis y luego se elabora un experimento para comprobar si la hipótesis se corresponde. En cambio en un enfoque cualitativo no necesariamente debe haber una.
+
+ Siempre deben haber resultados y marco teórico. 
+
+ - ¿En un proyecto de 2 años, puedo hacer un plan de trabajo de 2 años y un cronograma de 1 año? 
+No. 
+
+- ¿En un proyecto de 2 años sería posible hacer un plan de trabajo de 2 años y solicitar financiación para salario de 1 año? 
+Depende. Se debe contextualizar más en la parte de presupuesto, por ejemplo si se va a contratar a una persona para un propósito bien delimitado y específico. 
+
+- ¿En qué apartado de un artículo científico suelen ir las figuras e imágenes? 
+ En Resultados, Marco Teórico.
+
+- ¿En el enfoque cualitativo, la recogida de datos es estandarizada? 
+
+No. Depende de la opinión de nuestro público en las encuestas, foros y discusiones que hagamos para recopilar la información. 
+
+- En una investigación cualitativa, la información ha de ser: 
+    - Basada en una situación real que podamos aceptar/rechazar
+    - Comprensible y precisa.
+    - Observable y medible  
+
+- ¿Una publicación en una página web es un medio de difusión?
+
+Sí. 
+
+- ¿Cuál de los siguientes medios de difusión sería considerado una fuente fiable? 
+
+Una fuente fiable ha pasado por una revisión de expertos en el tema. 
+
+- El abastract es un resumen breve del artículo científico y su extensión debe ser: 
+
+El abastract debe contener Introducción, metodología, resultados relevantes. Asimismo, debemos adaptarnos a las normas y secciones de la revista donde queremos publicar. 
+
+100-250 palabras. 
+
+- Las bases de datos trabajan con las palabras que aparecen en el: 
+
+ Título, Abstract, Keywords
+
+
+## Factor Impacto 
+
+
